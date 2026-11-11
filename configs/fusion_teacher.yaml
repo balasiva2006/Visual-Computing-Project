@@ -1,0 +1,19 @@
+stage: teacher
+
+root: ./dataset_clean
+stats: ./artifacts/dct_stats.json
+audit: ./artifacts/casia_clean_split.json
+
+warmup_ckpt: ./runs/fusion_warmup_seed42/best.pt
+spatial_ckpt: ./runs/spatial_seed42/best.pt
+frequency_ckpt: ./runs/frequency_seed42/best.pt
+out: ./runs/fusion_teacher_seed42
+
+device: cuda
+epochs: 15
+crop: 512
+batch_size: 4
+workers: 2
+seed: 42
+amp: true
+beta: 0.05

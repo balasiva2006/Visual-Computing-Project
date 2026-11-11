@@ -1,0 +1,15 @@
+stage: frequency
+
+root: ./dataset_clean
+stats: ./artifacts/dct_stats.json
+audit: ./artifacts/casia_clean_split.json
+
+out: ./runs/frequency_seed42
+
+device: cuda
+epochs: 50
+crop: 512
+batch_size: 4
+workers: 2
+seed: 42
+amp: true
