@@ -219,20 +219,6 @@ Resume requires both `last.pt` and `best.pt` plus matching data/configuration. R
 
 Microbatch sizes may be `1`, `2`, `4`, or `8`; gradients accumulate toward eight images per update. Training crops must be positive multiples of `32`. Validation uses one native-resolution image at a time across five views, so reducing training batch size may not resolve validation memory limits.
 
-## Troubleshooting
-
-| Symptom | What to check |
-| --- | --- |
-| `No module named data/models/evaluation` | Run `python -m ...` from the project root and use the correct notebook kernel. |
-| Notebook cannot locate the project | Set `PROJECT_OVERRIDE` to the absolute project directory in its configuration. |
-| CUDA requested but unavailable | Use `--device cpu` or `DEVICE_REQUEST = 'cpu'`; check the installed PyTorch build for GPU use. |
-| Missing image, mask, or `table.csv` | Restore the expected dataset layout and regenerate manifests. |
-| Checkpoint mode or training-asset identity mismatch | Select the correct mode and original checkpoint/statistics/audit combination. |
-| Output directory already exists | Choose a new `--out`; use `--resume` only for a matching training run. |
-| GPU memory exhausted or evaluation is slow | Begin with one model, a preview manifest, and clean images; try CPU for oversized native-resolution inputs. |
-| Prediction exports use too much disk | Set `SAVE_ALL_PREDICTIONS = False`; galleries/plots requiring saved probabilities are then skipped. |
-| DataLoader worker issues | Try training with `--workers 0`. |
-
 ## Results and reproducibility
 
 See [results/README.md](results/README.md) for recorded metrics, source-group counts, report locations, and historical versus current mask policies. Preview subsets are workflow checks, not independent validation sets. Keep thresholds and normalization fixed before external testing.
