@@ -1,0 +1,11 @@
+id,image,mask,label,group,source_image,prompt
+fake/glide_inpainting_val2017_129135_up.png,fake/glide_inpainting_val2017_129135_up.png,mask/train_129135_mask.png,1,coco_129135,real/train_129135.png,train
+fake/glide_inpainting_val2017_217614_up.png,fake/glide_inpainting_val2017_217614_up.png,mask/giraffe_217614_mask.png,1,coco_217614,real/giraffe_217614.png,giraffe
+fake/glide_inpainting_val2017_323709_up.png,fake/glide_inpainting_val2017_323709_up.png,mask/airplane_323709_mask.png,1,coco_323709,real/airplane_323709.png,airplane
+fake/glide_inpainting_val2017_347664_up.png,fake/glide_inpainting_val2017_347664_up.png,mask/cow_347664_mask.png,1,coco_347664,real/cow_347664.png,cow
+fake/glide_inpainting_val2017_372260_up.png,fake/glide_inpainting_val2017_372260_up.png,mask/potted plant_372260_mask.png,1,coco_372260,real/potted plant_372260.png,potted plant
+real/airplane_323709.png,real/airplane_323709.png,,0,coco_323709,real/airplane_323709.png,airplane
+real/cow_347664.png,real/cow_347664.png,,0,coco_347664,real/cow_347664.png,cow
+real/giraffe_217614.png,real/giraffe_217614.png,,0,coco_217614,real/giraffe_217614.png,giraffe
+real/potted plant_372260.png,real/potted plant_372260.png,,0,coco_372260,real/potted plant_372260.png,potted plant
+real/train_129135.png,real/train_129135.png,,0,coco_129135,real/train_129135.png,train

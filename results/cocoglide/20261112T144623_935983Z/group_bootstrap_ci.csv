@@ -1,0 +1,4 @@
+model,metric,estimate,ci_low,ci_high,source_groups,valid_bootstrap_replicates
+Fusion finetuned,image_accuracy,0.544921875,0.525390625,0.5654541015625,512,1000
+Fusion finetuned,macro_dice,0.14444951033071132,0.1258121358374059,0.16655302297894795,512,1000
+Fusion finetuned,macro_iou,0.0993426611935602,0.08474654867017392,0.11660074749128464,512,1000

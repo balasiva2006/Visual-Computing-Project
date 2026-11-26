@@ -1,0 +1,9 @@
+figure,id,model,category
+07_example_model0_worst_0,1a3oag/c8ttxcu_0.jpg,Fusion finetuned,worst
+07_example_model0_worst_1,1a3oag/c8twn73_0.jpg,Fusion finetuned,worst
+07_example_model0_best_0,1ac1g7/c8w5v0p_0.jpg,Fusion finetuned,best
+07_example_model0_best_1,1bl55t/c97p9cf_0.jpg,Fusion finetuned,best
+07_example_model0_median_0,1c4ksv/c9d78r8_0.jpg,Fusion finetuned,median
+07_example_model0_median_1,1ajtpd/c8yc2ry_0.jpg,Fusion finetuned,median
+07_example_model0_authentic_fp_0,1axr5s/1axr5s_orig.jpg,Fusion finetuned,authentic_fp
+07_example_model0_authentic_fp_1,1b8r7b/1b8r7b_orig.jpg,Fusion finetuned,authentic_fp

@@ -1,0 +1,33 @@
+[
+  {
+    "model": "Fusion finetuned",
+    "condition": "clean",
+    "detection": {
+      "count": 1024,
+      "threshold": 0.5,
+      "tp": 389,
+      "fp": 343,
+      "fn": 123,
+      "tn": 169,
+      "f1": 0.6254019292604501,
+      "precision": 0.5314207650273224,
+      "recall": 0.759765625,
+      "accuracy": 0.544921875,
+      "false_positive_rate": 0.669921875,
+      "roc_auc": 0.5786361694335938
+    },
+    "localization": {
+      "threshold": 0.5,
+      "forged_images": 512,
+      "evaluated_images": 512,
+      "empty_forged_masks": 0,
+      "macro_iou": 0.0993426611935602,
+      "macro_dice": 0.14444951033071132,
+      "macro_f1": 0.14444951033071132,
+      "macro_pixel_roc_auc": 0.6728711805766638,
+      "pixel_auc_images": 512,
+      "authentic_images": 512,
+      "pristine_false_positive_area": 0.02262955904006958
+    }
+  }
+]

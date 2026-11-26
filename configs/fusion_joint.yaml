@@ -1,0 +1,17 @@
+stage: joint
+
+root: ./datasets/casia
+stats: ./artifacts/dct_stats.json
+audit: ./artifacts/casia_clean_split.json
+
+warmup_ckpt: ./results/checkpoints/03_fusion_warmup/best.pt
+out: ./results/training/runs/fusion_joint_seed42
+
+device: cuda
+epochs: 15
+crop: 512
+batch_size: 4
+workers: 2
+seed: 42
+amp: true
+beta: 0.0

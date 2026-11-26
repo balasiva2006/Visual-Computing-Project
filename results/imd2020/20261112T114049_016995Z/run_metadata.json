@@ -1,0 +1,37 @@
+{
+  "dataset_root": "/content/drive/MyDrive/vc_project/IMD2020",
+  "manifest_sha256": "56ff955b4e13797a94ae9819833a720568bfd826c596d325b9edec64bc3e2a9d",
+  "stats_sha256": "4378f9759e88ff6adb6e4530642321875b2db134f4a1fcbb3d75b4deb7546dcf",
+  "audit_sha256": "674cead2368e6f681943e5e0cfd821019205da5a8324e20fb207ff6d630f38a1",
+  "models": {
+    "Fusion finetuned": {
+      "path": "/content/drive/MyDrive/vc_project/Training results/Model weights/04_fusion_finetuned/best.pt",
+      "sha256": "e87969f395e936d3cd7a32ef100d43fa290cc7e903c4490e2f4111d9fab18e75",
+      "mode": "fusion",
+      "stage": "joint",
+      "epoch": 8,
+      "data_id": "14c954d139596220fbdd42c7b9684be55f928b9fb2fb6d5a9c89ebdba900eba5"
+    }
+  },
+  "seed": 42,
+  "device": "cuda",
+  "precision": "float32",
+  "image_threshold": 0.5,
+  "pixel_threshold": 0.5,
+  "mask_foreground": "white",
+  "conditions": [
+    "clean"
+  ],
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "timm": "1.0.31",
+    "numpy": "2.4.6",
+    "scipy": "1.16.3",
+    "pillow": "11.3.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.0",
+    "scikit-learn": "1.6.1"
+  }
+}

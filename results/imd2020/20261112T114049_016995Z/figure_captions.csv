@@ -1,0 +1,20 @@
+figure,caption
+03_model_workflow,Fusion architecture implemented in this repository. Standalone modes retain only the selected encoder branch.
+01_dataset_profile,"Dataset composition and native-resolution foreground sizes; these are data properties, not model scores."
+02_mask_audit_1,Verify mask alignment and foreground polarity before interpreting localization scores.
+02_mask_audit_3,Verify mask alignment and foreground polarity before interpreting localization scores.
+02_mask_audit_4,Verify mask alignment and foreground polarity before interpreting localization scores.
+03_model_workflow,Fusion architecture implemented in this repository. Standalone modes retain only the selected encoder branch.
+04_detection_dashboard_0,Fusion finetuned: image-level detection and calibration. Threshold sensitivity is exploratory; the configured operating point remains frozen.
+05_localization_0,Localization on forged images and spurious mask area on authentic images. Small regions may be harder to localize.
+06_model_comparison_ci,Frozen-threshold test metrics with source-group bootstrap intervals. Overlapping intervals are not a paired significance test.
+07_example_model0_worst_0,"worst example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_worst_1,"worst example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_best_0,"best example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_best_1,"best example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_median_0,"median example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_median_1,"median example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_authentic_fp_0,"authentic_fp example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+07_example_model0_authentic_fp_1,"authentic_fp example: source original, model input, aligned GT and predicted pixel masks, probabilities, and pixel errors. Source original is contextual only."
+08_pixel_threshold_0,Exploratory pixel-threshold sensitivity; threshold is not selected using this test set.
+08b_pooled_pixel_curves_0,"Approximate pooled pixel curves using 4096 probability bins, including authentic images. Large images contribute more pixels; these differ from exact macro pixel AUC."

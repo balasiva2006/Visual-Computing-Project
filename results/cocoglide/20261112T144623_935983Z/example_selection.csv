@@ -1,0 +1,9 @@
+figure,id,model,category
+07_example_model0_worst_0,fake/glide_inpainting_val2017_104612_up.png,Fusion finetuned,worst
+07_example_model0_worst_1,fake/glide_inpainting_val2017_104669_up.png,Fusion finetuned,worst
+07_example_model0_best_0,fake/glide_inpainting_val2017_451090_up.png,Fusion finetuned,best
+07_example_model0_best_1,fake/glide_inpainting_val2017_392228_up.png,Fusion finetuned,best
+07_example_model0_median_0,fake/glide_inpainting_val2017_134689_up.png,Fusion finetuned,median
+07_example_model0_median_1,fake/glide_inpainting_val2017_532129_up.png,Fusion finetuned,median
+07_example_model0_authentic_fp_0,real/giraffe_134689.png,Fusion finetuned,authentic_fp
+07_example_model0_authentic_fp_1,real/sheep_269196.png,Fusion finetuned,authentic_fp

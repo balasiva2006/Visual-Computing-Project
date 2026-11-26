@@ -1,0 +1,1025 @@
+id,image,mask,label,group,source_image,prompt
+fake/glide_inpainting_val2017_100582_up.png,fake/glide_inpainting_val2017_100582_up.png,mask/dining table_100582_mask.png,1,coco_100582,real/dining table_100582.png,dining table
+fake/glide_inpainting_val2017_101762_up.png,fake/glide_inpainting_val2017_101762_up.png,mask/bicycle_101762_mask.png,1,coco_101762,real/bicycle_101762.png,bicycle
+fake/glide_inpainting_val2017_10363_up.png,fake/glide_inpainting_val2017_10363_up.png,mask/car_10363_mask.png,1,coco_10363,real/car_10363.png,car
+fake/glide_inpainting_val2017_104198_up.png,fake/glide_inpainting_val2017_104198_up.png,mask/stop sign_104198_mask.png,1,coco_104198,real/stop sign_104198.png,stop sign
+fake/glide_inpainting_val2017_104612_up.png,fake/glide_inpainting_val2017_104612_up.png,mask/broccoli_104612_mask.png,1,coco_104612,real/broccoli_104612.png,broccoli
+fake/glide_inpainting_val2017_104669_up.png,fake/glide_inpainting_val2017_104669_up.png,mask/orange_104669_mask.png,1,coco_104669,real/orange_104669.png,orange
+fake/glide_inpainting_val2017_105014_up.png,fake/glide_inpainting_val2017_105014_up.png,mask/fork_105014_mask.png,1,coco_105014,real/fork_105014.png,fork
+fake/glide_inpainting_val2017_107554_up.png,fake/glide_inpainting_val2017_107554_up.png,mask/surfboard_107554_mask.png,1,coco_107554,real/surfboard_107554.png,surfboard
+fake/glide_inpainting_val2017_109798_up.png,fake/glide_inpainting_val2017_109798_up.png,mask/donut_109798_mask.png,1,coco_109798,real/donut_109798.png,donut
+fake/glide_inpainting_val2017_110211_up.png,fake/glide_inpainting_val2017_110211_up.png,mask/zebra_110211_mask.png,1,coco_110211,real/zebra_110211.png,zebra
+fake/glide_inpainting_val2017_110638_up.png,fake/glide_inpainting_val2017_110638_up.png,mask/elephant_110638_mask.png,1,coco_110638,real/elephant_110638.png,elephant
+fake/glide_inpainting_val2017_111179_up.png,fake/glide_inpainting_val2017_111179_up.png,mask/clock_111179_mask.png,1,coco_111179,real/clock_111179.png,clock
+fake/glide_inpainting_val2017_114871_up.png,fake/glide_inpainting_val2017_114871_up.png,mask/dining table_114871_mask.png,1,coco_114871,real/dining table_114871.png,dining table
+fake/glide_inpainting_val2017_116362_up.png,fake/glide_inpainting_val2017_116362_up.png,mask/spoon_116362_mask.png,1,coco_116362,real/spoon_116362.png,spoon
+fake/glide_inpainting_val2017_11813_up.png,fake/glide_inpainting_val2017_11813_up.png,mask/laptop_11813_mask.png,1,coco_11813,real/laptop_11813.png,laptop
+fake/glide_inpainting_val2017_120853_up.png,fake/glide_inpainting_val2017_120853_up.png,mask/sandwich_120853_mask.png,1,coco_120853,real/sandwich_120853.png,sandwich
+fake/glide_inpainting_val2017_121506_up.png,fake/glide_inpainting_val2017_121506_up.png,mask/umbrella_121506_mask.png,1,coco_121506,real/umbrella_121506.png,umbrella
+fake/glide_inpainting_val2017_122969_up.png,fake/glide_inpainting_val2017_122969_up.png,mask/zebra_122969_mask.png,1,coco_122969,real/zebra_122969.png,zebra
+fake/glide_inpainting_val2017_125062_up.png,fake/glide_inpainting_val2017_125062_up.png,mask/teddy bear_125062_mask.png,1,coco_125062,real/teddy bear_125062.png,teddy bear
+fake/glide_inpainting_val2017_125952_up.png,fake/glide_inpainting_val2017_125952_up.png,mask/suitcase_125952_mask.png,1,coco_125952,real/suitcase_125952.png,suitcase
+fake/glide_inpainting_val2017_126592_up.png,fake/glide_inpainting_val2017_126592_up.png,mask/stop sign_126592_mask.png,1,coco_126592,real/stop sign_126592.png,stop sign
+fake/glide_inpainting_val2017_127182_up.png,fake/glide_inpainting_val2017_127182_up.png,mask/microwave_127182_mask.png,1,coco_127182,real/microwave_127182.png,microwave
+fake/glide_inpainting_val2017_128598_up.png,fake/glide_inpainting_val2017_128598_up.png,mask/orange_128598_mask.png,1,coco_128598,real/orange_128598.png,orange
+fake/glide_inpainting_val2017_129054_up.png,fake/glide_inpainting_val2017_129054_up.png,mask/zebra_129054_mask.png,1,coco_129054,real/zebra_129054.png,zebra
+fake/glide_inpainting_val2017_129113_up.png,fake/glide_inpainting_val2017_129113_up.png,mask/spoon_129113_mask.png,1,coco_129113,real/spoon_129113.png,spoon
+fake/glide_inpainting_val2017_129135_up.png,fake/glide_inpainting_val2017_129135_up.png,mask/train_129135_mask.png,1,coco_129135,real/train_129135.png,train
+fake/glide_inpainting_val2017_131131_up.png,fake/glide_inpainting_val2017_131131_up.png,mask/tv_131131_mask.png,1,coco_131131,real/tv_131131.png,tv
+fake/glide_inpainting_val2017_131938_up.png,fake/glide_inpainting_val2017_131938_up.png,mask/tie_131938_mask.png,1,coco_131938,real/tie_131938.png,tie
+fake/glide_inpainting_val2017_132116_up.png,fake/glide_inpainting_val2017_132116_up.png,mask/broccoli_132116_mask.png,1,coco_132116,real/broccoli_132116.png,broccoli
+fake/glide_inpainting_val2017_132622_up.png,fake/glide_inpainting_val2017_132622_up.png,mask/bear_132622_mask.png,1,coco_132622,real/bear_132622.png,bear
+fake/glide_inpainting_val2017_133233_up.png,fake/glide_inpainting_val2017_133233_up.png,mask/boat_133233_mask.png,1,coco_133233,real/boat_133233.png,boat
+fake/glide_inpainting_val2017_133645_up.png,fake/glide_inpainting_val2017_133645_up.png,mask/boat_133645_mask.png,1,coco_133645,real/boat_133645.png,boat
+fake/glide_inpainting_val2017_133778_up.png,fake/glide_inpainting_val2017_133778_up.png,mask/cow_133778_mask.png,1,coco_133778,real/cow_133778.png,cow
+fake/glide_inpainting_val2017_134689_up.png,fake/glide_inpainting_val2017_134689_up.png,mask/giraffe_134689_mask.png,1,coco_134689,real/giraffe_134689.png,giraffe
+fake/glide_inpainting_val2017_134722_up.png,fake/glide_inpainting_val2017_134722_up.png,mask/train_134722_mask.png,1,coco_134722,real/train_134722.png,train
+fake/glide_inpainting_val2017_13597_up.png,fake/glide_inpainting_val2017_13597_up.png,mask/cake_13597_mask.png,1,coco_13597,real/cake_13597.png,cake
+fake/glide_inpainting_val2017_136772_up.png,fake/glide_inpainting_val2017_136772_up.png,mask/orange_136772_mask.png,1,coco_136772,real/orange_136772.png,orange
+fake/glide_inpainting_val2017_138550_up.png,fake/glide_inpainting_val2017_138550_up.png,mask/fire hydrant_138550_mask.png,1,coco_138550,real/fire hydrant_138550.png,fire hydrant
+fake/glide_inpainting_val2017_138819_up.png,fake/glide_inpainting_val2017_138819_up.png,mask/toilet_138819_mask.png,1,coco_138819,real/toilet_138819.png,toilet
+fake/glide_inpainting_val2017_138856_up.png,fake/glide_inpainting_val2017_138856_up.png,mask/oven_138856_mask.png,1,coco_138856,real/oven_138856.png,oven
+fake/glide_inpainting_val2017_139871_up.png,fake/glide_inpainting_val2017_139871_up.png,mask/airplane_139871_mask.png,1,coco_139871,real/airplane_139871.png,airplane
+fake/glide_inpainting_val2017_139883_up.png,fake/glide_inpainting_val2017_139883_up.png,mask/frisbee_139883_mask.png,1,coco_139883,real/frisbee_139883.png,frisbee
+fake/glide_inpainting_val2017_140929_up.png,fake/glide_inpainting_val2017_140929_up.png,mask/clock_140929_mask.png,1,coco_140929,real/clock_140929.png,clock
+fake/glide_inpainting_val2017_141597_up.png,fake/glide_inpainting_val2017_141597_up.png,mask/car_141597_mask.png,1,coco_141597,real/car_141597.png,car
+fake/glide_inpainting_val2017_143998_up.png,fake/glide_inpainting_val2017_143998_up.png,mask/knife_143998_mask.png,1,coco_143998,real/knife_143998.png,knife
+fake/glide_inpainting_val2017_146363_up.png,fake/glide_inpainting_val2017_146363_up.png,mask/umbrella_146363_mask.png,1,coco_146363,real/umbrella_146363.png,umbrella
+fake/glide_inpainting_val2017_146489_up.png,fake/glide_inpainting_val2017_146489_up.png,mask/wine glass_146489_mask.png,1,coco_146489,real/wine glass_146489.png,wine glass
+fake/glide_inpainting_val2017_147498_up.png,fake/glide_inpainting_val2017_147498_up.png,mask/bird_147498_mask.png,1,coco_147498,real/bird_147498.png,bird
+fake/glide_inpainting_val2017_147518_up.png,fake/glide_inpainting_val2017_147518_up.png,mask/toilet_147518_mask.png,1,coco_147518,real/toilet_147518.png,toilet
+fake/glide_inpainting_val2017_148707_up.png,fake/glide_inpainting_val2017_148707_up.png,mask/orange_148707_mask.png,1,coco_148707,real/orange_148707.png,orange
+fake/glide_inpainting_val2017_14888_up.png,fake/glide_inpainting_val2017_14888_up.png,mask/cow_14888_mask.png,1,coco_14888,real/cow_14888.png,cow
+fake/glide_inpainting_val2017_148957_up.png,fake/glide_inpainting_val2017_148957_up.png,mask/donut_148957_mask.png,1,coco_148957,real/donut_148957.png,donut
+fake/glide_inpainting_val2017_153217_up.png,fake/glide_inpainting_val2017_153217_up.png,mask/motorcycle_153217_mask.png,1,coco_153217,real/motorcycle_153217.png,motorcycle
+fake/glide_inpainting_val2017_153632_up.png,fake/glide_inpainting_val2017_153632_up.png,mask/knife_153632_mask.png,1,coco_153632,real/knife_153632.png,knife
+fake/glide_inpainting_val2017_15440_up.png,fake/glide_inpainting_val2017_15440_up.png,mask/bus_15440_mask.png,1,coco_15440,real/bus_15440.png,bus
+fake/glide_inpainting_val2017_154947_up.png,fake/glide_inpainting_val2017_154947_up.png,mask/sheep_154947_mask.png,1,coco_154947,real/sheep_154947.png,sheep
+fake/glide_inpainting_val2017_15497_up.png,fake/glide_inpainting_val2017_15497_up.png,mask/mouse_15497_mask.png,1,coco_15497,real/mouse_15497.png,mouse
+fake/glide_inpainting_val2017_15517_up.png,fake/glide_inpainting_val2017_15517_up.png,mask/bus_15517_mask.png,1,coco_15517,real/bus_15517.png,bus
+fake/glide_inpainting_val2017_156278_up.png,fake/glide_inpainting_val2017_156278_up.png,mask/refrigerator_156278_mask.png,1,coco_156278,real/refrigerator_156278.png,refrigerator
+fake/glide_inpainting_val2017_156372_up.png,fake/glide_inpainting_val2017_156372_up.png,mask/boat_156372_mask.png,1,coco_156372,real/boat_156372.png,boat
+fake/glide_inpainting_val2017_157390_up.png,fake/glide_inpainting_val2017_157390_up.png,mask/carrot_157390_mask.png,1,coco_157390,real/carrot_157390.png,carrot
+fake/glide_inpainting_val2017_159282_up.png,fake/glide_inpainting_val2017_159282_up.png,mask/vase_159282_mask.png,1,coco_159282,real/vase_159282.png,vase
+fake/glide_inpainting_val2017_160666_up.png,fake/glide_inpainting_val2017_160666_up.png,mask/toothbrush_160666_mask.png,1,coco_160666,real/toothbrush_160666.png,toothbrush
+fake/glide_inpainting_val2017_161820_up.png,fake/glide_inpainting_val2017_161820_up.png,mask/banana_161820_mask.png,1,coco_161820,real/banana_161820.png,banana
+fake/glide_inpainting_val2017_164115_up.png,fake/glide_inpainting_val2017_164115_up.png,mask/surfboard_164115_mask.png,1,coco_164115,real/surfboard_164115.png,surfboard
+fake/glide_inpainting_val2017_164363_up.png,fake/glide_inpainting_val2017_164363_up.png,mask/clock_164363_mask.png,1,coco_164363,real/clock_164363.png,clock
+fake/glide_inpainting_val2017_166563_up.png,fake/glide_inpainting_val2017_166563_up.png,mask/elephant_166563_mask.png,1,coco_166563,real/elephant_166563.png,elephant
+fake/glide_inpainting_val2017_167128_up.png,fake/glide_inpainting_val2017_167128_up.png,mask/elephant_167128_mask.png,1,coco_167128,real/elephant_167128.png,elephant
+fake/glide_inpainting_val2017_1675_up.png,fake/glide_inpainting_val2017_1675_up.png,mask/keyboard_1675_mask.png,1,coco_1675,real/keyboard_1675.png,keyboard
+fake/glide_inpainting_val2017_168593_up.png,fake/glide_inpainting_val2017_168593_up.png,mask/refrigerator_168593_mask.png,1,coco_168593,real/refrigerator_168593.png,refrigerator
+fake/glide_inpainting_val2017_17031_up.png,fake/glide_inpainting_val2017_17031_up.png,mask/giraffe_17031_mask.png,1,coco_17031,real/giraffe_17031.png,giraffe
+fake/glide_inpainting_val2017_170595_up.png,fake/glide_inpainting_val2017_170595_up.png,mask/sandwich_170595_mask.png,1,coco_170595,real/sandwich_170595.png,sandwich
+fake/glide_inpainting_val2017_171050_up.png,fake/glide_inpainting_val2017_171050_up.png,mask/fire hydrant_171050_mask.png,1,coco_171050,real/fire hydrant_171050.png,fire hydrant
+fake/glide_inpainting_val2017_17178_up.png,fake/glide_inpainting_val2017_17178_up.png,mask/horse_17178_mask.png,1,coco_17178,real/horse_17178.png,horse
+fake/glide_inpainting_val2017_172330_up.png,fake/glide_inpainting_val2017_172330_up.png,mask/car_172330_mask.png,1,coco_172330,real/car_172330.png,car
+fake/glide_inpainting_val2017_172856_up.png,fake/glide_inpainting_val2017_172856_up.png,mask/stop sign_172856_mask.png,1,coco_172856,real/stop sign_172856.png,stop sign
+fake/glide_inpainting_val2017_173091_up.png,fake/glide_inpainting_val2017_173091_up.png,mask/sandwich_173091_mask.png,1,coco_173091,real/sandwich_173091.png,sandwich
+fake/glide_inpainting_val2017_174231_up.png,fake/glide_inpainting_val2017_174231_up.png,mask/chair_174231_mask.png,1,coco_174231,real/chair_174231.png,chair
+fake/glide_inpainting_val2017_176232_up.png,fake/glide_inpainting_val2017_176232_up.png,mask/vase_176232_mask.png,1,coco_176232,real/vase_176232.png,vase
+fake/glide_inpainting_val2017_180296_up.png,fake/glide_inpainting_val2017_180296_up.png,mask/suitcase_180296_mask.png,1,coco_180296,real/suitcase_180296.png,suitcase
+fake/glide_inpainting_val2017_180798_up.png,fake/glide_inpainting_val2017_180798_up.png,mask/cell phone_180798_mask.png,1,coco_180798,real/cell phone_180798.png,cell phone
+fake/glide_inpainting_val2017_182417_up.png,fake/glide_inpainting_val2017_182417_up.png,mask/dining table_182417_mask.png,1,coco_182417,real/dining table_182417.png,dining table
+fake/glide_inpainting_val2017_183965_up.png,fake/glide_inpainting_val2017_183965_up.png,mask/sandwich_183965_mask.png,1,coco_183965,real/sandwich_183965.png,sandwich
+fake/glide_inpainting_val2017_184400_up.png,fake/glide_inpainting_val2017_184400_up.png,mask/train_184400_mask.png,1,coco_184400,real/train_184400.png,train
+fake/glide_inpainting_val2017_185409_up.png,fake/glide_inpainting_val2017_185409_up.png,mask/zebra_185409_mask.png,1,coco_185409,real/zebra_185409.png,zebra
+fake/glide_inpainting_val2017_186938_up.png,fake/glide_inpainting_val2017_186938_up.png,mask/bird_186938_mask.png,1,coco_186938,real/bird_186938.png,bird
+fake/glide_inpainting_val2017_189078_up.png,fake/glide_inpainting_val2017_189078_up.png,mask/orange_189078_mask.png,1,coco_189078,real/orange_189078.png,orange
+fake/glide_inpainting_val2017_189436_up.png,fake/glide_inpainting_val2017_189436_up.png,mask/tie_189436_mask.png,1,coco_189436,real/tie_189436.png,tie
+fake/glide_inpainting_val2017_189451_up.png,fake/glide_inpainting_val2017_189451_up.png,mask/knife_189451_mask.png,1,coco_189451,real/knife_189451.png,knife
+fake/glide_inpainting_val2017_191580_up.png,fake/glide_inpainting_val2017_191580_up.png,mask/sandwich_191580_mask.png,1,coco_191580,real/sandwich_191580.png,sandwich
+fake/glide_inpainting_val2017_192904_up.png,fake/glide_inpainting_val2017_192904_up.png,mask/donut_192904_mask.png,1,coco_192904,real/donut_192904.png,donut
+fake/glide_inpainting_val2017_194216_up.png,fake/glide_inpainting_val2017_194216_up.png,mask/bear_194216_mask.png,1,coco_194216,real/bear_194216.png,bear
+fake/glide_inpainting_val2017_194724_up.png,fake/glide_inpainting_val2017_194724_up.png,mask/refrigerator_194724_mask.png,1,coco_194724,real/refrigerator_194724.png,refrigerator
+fake/glide_inpainting_val2017_194746_up.png,fake/glide_inpainting_val2017_194746_up.png,mask/pizza_194746_mask.png,1,coco_194746,real/pizza_194746.png,pizza
+fake/glide_inpainting_val2017_196754_up.png,fake/glide_inpainting_val2017_196754_up.png,mask/stop sign_196754_mask.png,1,coco_196754,real/stop sign_196754.png,stop sign
+fake/glide_inpainting_val2017_196759_up.png,fake/glide_inpainting_val2017_196759_up.png,mask/truck_196759_mask.png,1,coco_196759,real/truck_196759.png,truck
+fake/glide_inpainting_val2017_196843_up.png,fake/glide_inpainting_val2017_196843_up.png,mask/bicycle_196843_mask.png,1,coco_196843,real/bicycle_196843.png,bicycle
+fake/glide_inpainting_val2017_198960_up.png,fake/glide_inpainting_val2017_198960_up.png,mask/sheep_198960_mask.png,1,coco_198960,real/sheep_198960.png,sheep
+fake/glide_inpainting_val2017_199681_up.png,fake/glide_inpainting_val2017_199681_up.png,mask/teddy bear_199681_mask.png,1,coco_199681,real/teddy bear_199681.png,teddy bear
+fake/glide_inpainting_val2017_20059_up.png,fake/glide_inpainting_val2017_20059_up.png,mask/zebra_20059_mask.png,1,coco_20059,real/zebra_20059.png,zebra
+fake/glide_inpainting_val2017_201934_up.png,fake/glide_inpainting_val2017_201934_up.png,mask/bus_201934_mask.png,1,coco_201934,real/bus_201934.png,bus
+fake/glide_inpainting_val2017_20247_up.png,fake/glide_inpainting_val2017_20247_up.png,mask/bear_20247_mask.png,1,coco_20247,real/bear_20247.png,bear
+fake/glide_inpainting_val2017_203546_up.png,fake/glide_inpainting_val2017_203546_up.png,mask/bear_203546_mask.png,1,coco_203546,real/bear_203546.png,bear
+fake/glide_inpainting_val2017_203580_up.png,fake/glide_inpainting_val2017_203580_up.png,mask/umbrella_203580_mask.png,1,coco_203580,real/umbrella_203580.png,umbrella
+fake/glide_inpainting_val2017_208901_up.png,fake/glide_inpainting_val2017_208901_up.png,mask/airplane_208901_mask.png,1,coco_208901,real/airplane_208901.png,airplane
+fake/glide_inpainting_val2017_209142_up.png,fake/glide_inpainting_val2017_209142_up.png,mask/bowl_209142_mask.png,1,coco_209142,real/bowl_209142.png,bowl
+fake/glide_inpainting_val2017_209972_up.png,fake/glide_inpainting_val2017_209972_up.png,mask/boat_209972_mask.png,1,coco_209972,real/boat_209972.png,boat
+fake/glide_inpainting_val2017_210030_up.png,fake/glide_inpainting_val2017_210030_up.png,mask/fork_210030_mask.png,1,coco_210030,real/fork_210030.png,fork
+fake/glide_inpainting_val2017_210502_up.png,fake/glide_inpainting_val2017_210502_up.png,mask/train_210502_mask.png,1,coco_210502,real/train_210502.png,train
+fake/glide_inpainting_val2017_211069_up.png,fake/glide_inpainting_val2017_211069_up.png,mask/giraffe_211069_mask.png,1,coco_211069,real/giraffe_211069.png,giraffe
+fake/glide_inpainting_val2017_213224_up.png,fake/glide_inpainting_val2017_213224_up.png,mask/chair_213224_mask.png,1,coco_213224,real/chair_213224.png,chair
+fake/glide_inpainting_val2017_214200_up.png,fake/glide_inpainting_val2017_214200_up.png,mask/stop sign_214200_mask.png,1,coco_214200,real/stop sign_214200.png,stop sign
+fake/glide_inpainting_val2017_2149_up.png,fake/glide_inpainting_val2017_2149_up.png,mask/bowl_2149_mask.png,1,coco_2149,real/bowl_2149.png,bowl
+fake/glide_inpainting_val2017_216636_up.png,fake/glide_inpainting_val2017_216636_up.png,mask/cake_216636_mask.png,1,coco_216636,real/cake_216636.png,cake
+fake/glide_inpainting_val2017_217614_up.png,fake/glide_inpainting_val2017_217614_up.png,mask/giraffe_217614_mask.png,1,coco_217614,real/giraffe_217614.png,giraffe
+fake/glide_inpainting_val2017_219283_up.png,fake/glide_inpainting_val2017_219283_up.png,mask/teddy bear_219283_mask.png,1,coco_219283,real/teddy bear_219283.png,teddy bear
+fake/glide_inpainting_val2017_220310_up.png,fake/glide_inpainting_val2017_220310_up.png,mask/teddy bear_220310_mask.png,1,coco_220310,real/teddy bear_220310.png,teddy bear
+fake/glide_inpainting_val2017_221213_up.png,fake/glide_inpainting_val2017_221213_up.png,mask/train_221213_mask.png,1,coco_221213,real/train_221213.png,train
+fake/glide_inpainting_val2017_221693_up.png,fake/glide_inpainting_val2017_221693_up.png,mask/frisbee_221693_mask.png,1,coco_221693,real/frisbee_221693.png,frisbee
+fake/glide_inpainting_val2017_222094_up.png,fake/glide_inpainting_val2017_222094_up.png,mask/stop sign_222094_mask.png,1,coco_222094,real/stop sign_222094.png,stop sign
+fake/glide_inpainting_val2017_222299_up.png,fake/glide_inpainting_val2017_222299_up.png,mask/laptop_222299_mask.png,1,coco_222299,real/laptop_222299.png,laptop
+fake/glide_inpainting_val2017_222863_up.png,fake/glide_inpainting_val2017_222863_up.png,mask/cow_222863_mask.png,1,coco_222863,real/cow_222863.png,cow
+fake/glide_inpainting_val2017_222991_up.png,fake/glide_inpainting_val2017_222991_up.png,mask/umbrella_222991_mask.png,1,coco_222991,real/umbrella_222991.png,umbrella
+fake/glide_inpainting_val2017_223789_up.png,fake/glide_inpainting_val2017_223789_up.png,mask/sink_223789_mask.png,1,coco_223789,real/sink_223789.png,sink
+fake/glide_inpainting_val2017_224051_up.png,fake/glide_inpainting_val2017_224051_up.png,mask/bicycle_224051_mask.png,1,coco_224051,real/bicycle_224051.png,bicycle
+fake/glide_inpainting_val2017_225184_up.png,fake/glide_inpainting_val2017_225184_up.png,mask/sheep_225184_mask.png,1,coco_225184,real/sheep_225184.png,sheep
+fake/glide_inpainting_val2017_225532_up.png,fake/glide_inpainting_val2017_225532_up.png,mask/car_225532_mask.png,1,coco_225532,real/car_225532.png,car
+fake/glide_inpainting_val2017_22589_up.png,fake/glide_inpainting_val2017_22589_up.png,mask/sheep_22589_mask.png,1,coco_22589,real/sheep_22589.png,sheep
+fake/glide_inpainting_val2017_226130_up.png,fake/glide_inpainting_val2017_226130_up.png,mask/hot dog_226130_mask.png,1,coco_226130,real/hot dog_226130.png,hot dog
+fake/glide_inpainting_val2017_226883_up.png,fake/glide_inpainting_val2017_226883_up.png,mask/horse_226883_mask.png,1,coco_226883,real/horse_226883.png,horse
+fake/glide_inpainting_val2017_228436_up.png,fake/glide_inpainting_val2017_228436_up.png,mask/boat_228436_mask.png,1,coco_228436,real/boat_228436.png,boat
+fake/glide_inpainting_val2017_228981_up.png,fake/glide_inpainting_val2017_228981_up.png,mask/cell phone_228981_mask.png,1,coco_228981,real/cell phone_228981.png,cell phone
+fake/glide_inpainting_val2017_229997_up.png,fake/glide_inpainting_val2017_229997_up.png,mask/bird_229997_mask.png,1,coco_229997,real/bird_229997.png,bird
+fake/glide_inpainting_val2017_23023_up.png,fake/glide_inpainting_val2017_23023_up.png,mask/handbag_23023_mask.png,1,coco_23023,real/handbag_23023.png,handbag
+fake/glide_inpainting_val2017_231088_up.png,fake/glide_inpainting_val2017_231088_up.png,mask/umbrella_231088_mask.png,1,coco_231088,real/umbrella_231088.png,umbrella
+fake/glide_inpainting_val2017_231527_up.png,fake/glide_inpainting_val2017_231527_up.png,mask/orange_231527_mask.png,1,coco_231527,real/orange_231527.png,orange
+fake/glide_inpainting_val2017_231822_up.png,fake/glide_inpainting_val2017_231822_up.png,mask/broccoli_231822_mask.png,1,coco_231822,real/broccoli_231822.png,broccoli
+fake/glide_inpainting_val2017_232348_up.png,fake/glide_inpainting_val2017_232348_up.png,mask/toaster_232348_mask.png,1,coco_232348,real/toaster_232348.png,toaster
+fake/glide_inpainting_val2017_232489_up.png,fake/glide_inpainting_val2017_232489_up.png,mask/pizza_232489_mask.png,1,coco_232489,real/pizza_232489.png,pizza
+fake/glide_inpainting_val2017_232538_up.png,fake/glide_inpainting_val2017_232538_up.png,mask/train_232538_mask.png,1,coco_232538,real/train_232538.png,train
+fake/glide_inpainting_val2017_233033_up.png,fake/glide_inpainting_val2017_233033_up.png,mask/umbrella_233033_mask.png,1,coco_233033,real/umbrella_233033.png,umbrella
+fake/glide_inpainting_val2017_233567_up.png,fake/glide_inpainting_val2017_233567_up.png,mask/cow_233567_mask.png,1,coco_233567,real/cow_233567.png,cow
+fake/glide_inpainting_val2017_238866_up.png,fake/glide_inpainting_val2017_238866_up.png,mask/donut_238866_mask.png,1,coco_238866,real/donut_238866.png,donut
+fake/glide_inpainting_val2017_241319_up.png,fake/glide_inpainting_val2017_241319_up.png,mask/toothbrush_241319_mask.png,1,coco_241319,real/toothbrush_241319.png,toothbrush
+fake/glide_inpainting_val2017_24144_up.png,fake/glide_inpainting_val2017_24144_up.png,mask/pizza_24144_mask.png,1,coco_24144,real/pizza_24144.png,pizza
+fake/glide_inpainting_val2017_242287_up.png,fake/glide_inpainting_val2017_242287_up.png,mask/bicycle_242287_mask.png,1,coco_242287,real/bicycle_242287.png,bicycle
+fake/glide_inpainting_val2017_243344_up.png,fake/glide_inpainting_val2017_243344_up.png,mask/refrigerator_243344_mask.png,1,coco_243344,real/refrigerator_243344.png,refrigerator
+fake/glide_inpainting_val2017_244019_up.png,fake/glide_inpainting_val2017_244019_up.png,mask/fire hydrant_244019_mask.png,1,coco_244019,real/fire hydrant_244019.png,fire hydrant
+fake/glide_inpainting_val2017_244411_up.png,fake/glide_inpainting_val2017_244411_up.png,mask/cow_244411_mask.png,1,coco_244411,real/cow_244411.png,cow
+fake/glide_inpainting_val2017_245764_up.png,fake/glide_inpainting_val2017_245764_up.png,mask/toilet_245764_mask.png,1,coco_245764,real/toilet_245764.png,toilet
+fake/glide_inpainting_val2017_245915_up.png,fake/glide_inpainting_val2017_245915_up.png,mask/elephant_245915_mask.png,1,coco_245915,real/elephant_245915.png,elephant
+fake/glide_inpainting_val2017_246308_up.png,fake/glide_inpainting_val2017_246308_up.png,mask/tv_246308_mask.png,1,coco_246308,real/tv_246308.png,tv
+fake/glide_inpainting_val2017_248314_up.png,fake/glide_inpainting_val2017_248314_up.png,mask/mouse_248314_mask.png,1,coco_248314,real/mouse_248314.png,mouse
+fake/glide_inpainting_val2017_248980_up.png,fake/glide_inpainting_val2017_248980_up.png,mask/orange_248980_mask.png,1,coco_248980,real/orange_248980.png,orange
+fake/glide_inpainting_val2017_251119_up.png,fake/glide_inpainting_val2017_251119_up.png,mask/hot dog_251119_mask.png,1,coco_251119,real/hot dog_251119.png,hot dog
+fake/glide_inpainting_val2017_25139_up.png,fake/glide_inpainting_val2017_25139_up.png,mask/zebra_25139_mask.png,1,coco_25139,real/zebra_25139.png,zebra
+fake/glide_inpainting_val2017_252332_up.png,fake/glide_inpainting_val2017_252332_up.png,mask/stop sign_252332_mask.png,1,coco_252332,real/stop sign_252332.png,stop sign
+fake/glide_inpainting_val2017_255718_up.png,fake/glide_inpainting_val2017_255718_up.png,mask/fire hydrant_255718_mask.png,1,coco_255718,real/fire hydrant_255718.png,fire hydrant
+fake/glide_inpainting_val2017_255912_up.png,fake/glide_inpainting_val2017_255912_up.png,mask/broccoli_255912_mask.png,1,coco_255912,real/broccoli_255912.png,broccoli
+fake/glide_inpainting_val2017_2592_up.png,fake/glide_inpainting_val2017_2592_up.png,mask/knife_2592_mask.png,1,coco_2592,real/knife_2592.png,knife
+fake/glide_inpainting_val2017_259625_up.png,fake/glide_inpainting_val2017_259625_up.png,mask/elephant_259625_mask.png,1,coco_259625,real/elephant_259625.png,elephant
+fake/glide_inpainting_val2017_25986_up.png,fake/glide_inpainting_val2017_25986_up.png,mask/donut_25986_mask.png,1,coco_25986,real/donut_25986.png,donut
+fake/glide_inpainting_val2017_261161_up.png,fake/glide_inpainting_val2017_261161_up.png,mask/dog_261161_mask.png,1,coco_261161,real/dog_261161.png,dog
+fake/glide_inpainting_val2017_263860_up.png,fake/glide_inpainting_val2017_263860_up.png,mask/elephant_263860_mask.png,1,coco_263860,real/elephant_263860.png,elephant
+fake/glide_inpainting_val2017_267351_up.png,fake/glide_inpainting_val2017_267351_up.png,mask/clock_267351_mask.png,1,coco_267351,real/clock_267351.png,clock
+fake/glide_inpainting_val2017_267434_up.png,fake/glide_inpainting_val2017_267434_up.png,mask/cow_267434_mask.png,1,coco_267434,real/cow_267434.png,cow
+fake/glide_inpainting_val2017_267940_up.png,fake/glide_inpainting_val2017_267940_up.png,mask/boat_267940_mask.png,1,coco_267940,real/boat_267940.png,boat
+fake/glide_inpainting_val2017_268375_up.png,fake/glide_inpainting_val2017_268375_up.png,mask/elephant_268375_mask.png,1,coco_268375,real/elephant_268375.png,elephant
+fake/glide_inpainting_val2017_269196_up.png,fake/glide_inpainting_val2017_269196_up.png,mask/sheep_269196_mask.png,1,coco_269196,real/sheep_269196.png,sheep
+fake/glide_inpainting_val2017_26926_up.png,fake/glide_inpainting_val2017_26926_up.png,mask/fire hydrant_26926_mask.png,1,coco_26926,real/fire hydrant_26926.png,fire hydrant
+fake/glide_inpainting_val2017_269866_up.png,fake/glide_inpainting_val2017_269866_up.png,mask/microwave_269866_mask.png,1,coco_269866,real/microwave_269866.png,microwave
+fake/glide_inpainting_val2017_269932_up.png,fake/glide_inpainting_val2017_269932_up.png,mask/horse_269932_mask.png,1,coco_269932,real/horse_269932.png,horse
+fake/glide_inpainting_val2017_269942_up.png,fake/glide_inpainting_val2017_269942_up.png,mask/traffic light_269942_mask.png,1,coco_269942,real/traffic light_269942.png,traffic light
+fake/glide_inpainting_val2017_270402_up.png,fake/glide_inpainting_val2017_270402_up.png,mask/elephant_270402_mask.png,1,coco_270402,real/elephant_270402.png,elephant
+fake/glide_inpainting_val2017_272049_up.png,fake/glide_inpainting_val2017_272049_up.png,mask/truck_272049_mask.png,1,coco_272049,real/truck_272049.png,truck
+fake/glide_inpainting_val2017_272416_up.png,fake/glide_inpainting_val2017_272416_up.png,mask/toilet_272416_mask.png,1,coco_272416,real/toilet_272416.png,toilet
+fake/glide_inpainting_val2017_274687_up.png,fake/glide_inpainting_val2017_274687_up.png,mask/chair_274687_mask.png,1,coco_274687,real/chair_274687.png,chair
+fake/glide_inpainting_val2017_276284_up.png,fake/glide_inpainting_val2017_276284_up.png,mask/motorcycle_276284_mask.png,1,coco_276284,real/motorcycle_276284.png,motorcycle
+fake/glide_inpainting_val2017_277051_up.png,fake/glide_inpainting_val2017_277051_up.png,mask/knife_277051_mask.png,1,coco_277051,real/knife_277051.png,knife
+fake/glide_inpainting_val2017_279145_up.png,fake/glide_inpainting_val2017_279145_up.png,mask/potted plant_279145_mask.png,1,coco_279145,real/potted plant_279145.png,potted plant
+fake/glide_inpainting_val2017_27932_up.png,fake/glide_inpainting_val2017_27932_up.png,mask/baseball glove_27932_mask.png,1,coco_27932,real/baseball glove_27932.png,baseball glove
+fake/glide_inpainting_val2017_279887_up.png,fake/glide_inpainting_val2017_279887_up.png,mask/motorcycle_279887_mask.png,1,coco_279887,real/motorcycle_279887.png,motorcycle
+fake/glide_inpainting_val2017_283038_up.png,fake/glide_inpainting_val2017_283038_up.png,mask/stop sign_283038_mask.png,1,coco_283038,real/stop sign_283038.png,stop sign
+fake/glide_inpainting_val2017_283113_up.png,fake/glide_inpainting_val2017_283113_up.png,mask/hot dog_283113_mask.png,1,coco_283113,real/hot dog_283113.png,hot dog
+fake/glide_inpainting_val2017_283717_up.png,fake/glide_inpainting_val2017_283717_up.png,mask/oven_283717_mask.png,1,coco_283717,real/oven_283717.png,oven
+fake/glide_inpainting_val2017_284296_up.png,fake/glide_inpainting_val2017_284296_up.png,mask/giraffe_284296_mask.png,1,coco_284296,real/giraffe_284296.png,giraffe
+fake/glide_inpainting_val2017_284762_up.png,fake/glide_inpainting_val2017_284762_up.png,mask/traffic light_284762_mask.png,1,coco_284762,real/traffic light_284762.png,traffic light
+fake/glide_inpainting_val2017_285788_up.png,fake/glide_inpainting_val2017_285788_up.png,mask/giraffe_285788_mask.png,1,coco_285788,real/giraffe_285788.png,giraffe
+fake/glide_inpainting_val2017_285_up.png,fake/glide_inpainting_val2017_285_up.png,mask/bear_285_mask.png,1,coco_285,real/bear_285.png,bear
+fake/glide_inpainting_val2017_286849_up.png,fake/glide_inpainting_val2017_286849_up.png,mask/giraffe_286849_mask.png,1,coco_286849,real/giraffe_286849.png,giraffe
+fake/glide_inpainting_val2017_287959_up.png,fake/glide_inpainting_val2017_287959_up.png,mask/sandwich_287959_mask.png,1,coco_287959,real/sandwich_287959.png,sandwich
+fake/glide_inpainting_val2017_28809_up.png,fake/glide_inpainting_val2017_28809_up.png,mask/banana_28809_mask.png,1,coco_28809,real/banana_28809.png,banana
+fake/glide_inpainting_val2017_288391_up.png,fake/glide_inpainting_val2017_288391_up.png,mask/cell phone_288391_mask.png,1,coco_288391,real/cell phone_288391.png,cell phone
+fake/glide_inpainting_val2017_288882_up.png,fake/glide_inpainting_val2017_288882_up.png,mask/giraffe_288882_mask.png,1,coco_288882,real/giraffe_288882.png,giraffe
+fake/glide_inpainting_val2017_290592_up.png,fake/glide_inpainting_val2017_290592_up.png,mask/sheep_290592_mask.png,1,coco_290592,real/sheep_290592.png,sheep
+fake/glide_inpainting_val2017_290833_up.png,fake/glide_inpainting_val2017_290833_up.png,mask/zebra_290833_mask.png,1,coco_290833,real/zebra_290833.png,zebra
+fake/glide_inpainting_val2017_291861_up.png,fake/glide_inpainting_val2017_291861_up.png,mask/zebra_291861_mask.png,1,coco_291861,real/zebra_291861.png,zebra
+fake/glide_inpainting_val2017_292330_up.png,fake/glide_inpainting_val2017_292330_up.png,mask/baseball bat_292330_mask.png,1,coco_292330,real/baseball bat_292330.png,baseball bat
+fake/glide_inpainting_val2017_293044_up.png,fake/glide_inpainting_val2017_293044_up.png,mask/sandwich_293044_mask.png,1,coco_293044,real/sandwich_293044.png,sandwich
+fake/glide_inpainting_val2017_293071_up.png,fake/glide_inpainting_val2017_293071_up.png,mask/fire hydrant_293071_mask.png,1,coco_293071,real/fire hydrant_293071.png,fire hydrant
+fake/glide_inpainting_val2017_293474_up.png,fake/glide_inpainting_val2017_293474_up.png,mask/fire hydrant_293474_mask.png,1,coco_293474,real/fire hydrant_293474.png,fire hydrant
+fake/glide_inpainting_val2017_293858_up.png,fake/glide_inpainting_val2017_293858_up.png,mask/hot dog_293858_mask.png,1,coco_293858,real/hot dog_293858.png,hot dog
+fake/glide_inpainting_val2017_294855_up.png,fake/glide_inpainting_val2017_294855_up.png,mask/suitcase_294855_mask.png,1,coco_294855,real/suitcase_294855.png,suitcase
+fake/glide_inpainting_val2017_295231_up.png,fake/glide_inpainting_val2017_295231_up.png,mask/sheep_295231_mask.png,1,coco_295231,real/sheep_295231.png,sheep
+fake/glide_inpainting_val2017_29675_up.png,fake/glide_inpainting_val2017_29675_up.png,mask/hot dog_29675_mask.png,1,coco_29675,real/hot dog_29675.png,hot dog
+fake/glide_inpainting_val2017_296969_up.png,fake/glide_inpainting_val2017_296969_up.png,mask/giraffe_296969_mask.png,1,coco_296969,real/giraffe_296969.png,giraffe
+fake/glide_inpainting_val2017_300842_up.png,fake/glide_inpainting_val2017_300842_up.png,mask/skateboard_300842_mask.png,1,coco_300842,real/skateboard_300842.png,skateboard
+fake/glide_inpainting_val2017_30213_up.png,fake/glide_inpainting_val2017_30213_up.png,mask/sink_30213_mask.png,1,coco_30213,real/sink_30213.png,sink
+fake/glide_inpainting_val2017_304545_up.png,fake/glide_inpainting_val2017_304545_up.png,mask/suitcase_304545_mask.png,1,coco_304545,real/suitcase_304545.png,suitcase
+fake/glide_inpainting_val2017_304817_up.png,fake/glide_inpainting_val2017_304817_up.png,mask/snowboard_304817_mask.png,1,coco_304817,real/snowboard_304817.png,snowboard
+fake/glide_inpainting_val2017_304984_up.png,fake/glide_inpainting_val2017_304984_up.png,mask/wine glass_304984_mask.png,1,coco_304984,real/wine glass_304984.png,wine glass
+fake/glide_inpainting_val2017_308753_up.png,fake/glide_inpainting_val2017_308753_up.png,mask/bear_308753_mask.png,1,coco_308753,real/bear_308753.png,bear
+fake/glide_inpainting_val2017_310200_up.png,fake/glide_inpainting_val2017_310200_up.png,mask/donut_310200_mask.png,1,coco_310200,real/donut_310200.png,donut
+fake/glide_inpainting_val2017_311518_up.png,fake/glide_inpainting_val2017_311518_up.png,mask/boat_311518_mask.png,1,coco_311518,real/boat_311518.png,boat
+fake/glide_inpainting_val2017_311909_up.png,fake/glide_inpainting_val2017_311909_up.png,mask/bus_311909_mask.png,1,coco_311909,real/bus_311909.png,bus
+fake/glide_inpainting_val2017_312406_up.png,fake/glide_inpainting_val2017_312406_up.png,mask/banana_312406_mask.png,1,coco_312406,real/banana_312406.png,banana
+fake/glide_inpainting_val2017_31269_up.png,fake/glide_inpainting_val2017_31269_up.png,mask/zebra_31269_mask.png,1,coco_31269,real/zebra_31269.png,zebra
+fake/glide_inpainting_val2017_313130_up.png,fake/glide_inpainting_val2017_313130_up.png,mask/microwave_313130_mask.png,1,coco_313130,real/microwave_313130.png,microwave
+fake/glide_inpainting_val2017_314034_up.png,fake/glide_inpainting_val2017_314034_up.png,mask/cow_314034_mask.png,1,coco_314034,real/cow_314034.png,cow
+fake/glide_inpainting_val2017_314914_up.png,fake/glide_inpainting_val2017_314914_up.png,mask/truck_314914_mask.png,1,coco_314914,real/truck_314914.png,truck
+fake/glide_inpainting_val2017_317024_up.png,fake/glide_inpainting_val2017_317024_up.png,mask/zebra_317024_mask.png,1,coco_317024,real/zebra_317024.png,zebra
+fake/glide_inpainting_val2017_318080_up.png,fake/glide_inpainting_val2017_318080_up.png,mask/bear_318080_mask.png,1,coco_318080,real/bear_318080.png,bear
+fake/glide_inpainting_val2017_318114_up.png,fake/glide_inpainting_val2017_318114_up.png,mask/orange_318114_mask.png,1,coco_318114,real/orange_318114.png,orange
+fake/glide_inpainting_val2017_319617_up.png,fake/glide_inpainting_val2017_319617_up.png,mask/hot dog_319617_mask.png,1,coco_319617,real/hot dog_319617.png,hot dog
+fake/glide_inpainting_val2017_320632_up.png,fake/glide_inpainting_val2017_320632_up.png,mask/zebra_320632_mask.png,1,coco_320632,real/zebra_320632.png,zebra
+fake/glide_inpainting_val2017_322211_up.png,fake/glide_inpainting_val2017_322211_up.png,mask/donut_322211_mask.png,1,coco_322211,real/donut_322211.png,donut
+fake/glide_inpainting_val2017_322574_up.png,fake/glide_inpainting_val2017_322574_up.png,mask/sandwich_322574_mask.png,1,coco_322574,real/sandwich_322574.png,sandwich
+fake/glide_inpainting_val2017_32285_up.png,fake/glide_inpainting_val2017_32285_up.png,mask/toilet_32285_mask.png,1,coco_32285,real/toilet_32285.png,toilet
+fake/glide_inpainting_val2017_323709_up.png,fake/glide_inpainting_val2017_323709_up.png,mask/airplane_323709_mask.png,1,coco_323709,real/airplane_323709.png,airplane
+fake/glide_inpainting_val2017_324715_up.png,fake/glide_inpainting_val2017_324715_up.png,mask/scissors_324715_mask.png,1,coco_324715,real/scissors_324715.png,scissors
+fake/glide_inpainting_val2017_32610_up.png,fake/glide_inpainting_val2017_32610_up.png,mask/backpack_32610_mask.png,1,coco_32610,real/backpack_32610.png,backpack
+fake/glide_inpainting_val2017_328117_up.png,fake/glide_inpainting_val2017_328117_up.png,mask/donut_328117_mask.png,1,coco_328117,real/donut_328117.png,donut
+fake/glide_inpainting_val2017_328286_up.png,fake/glide_inpainting_val2017_328286_up.png,mask/boat_328286_mask.png,1,coco_328286,real/boat_328286.png,boat
+fake/glide_inpainting_val2017_328683_up.png,fake/glide_inpainting_val2017_328683_up.png,mask/parking meter_328683_mask.png,1,coco_328683,real/parking meter_328683.png,parking meter
+fake/glide_inpainting_val2017_330790_up.png,fake/glide_inpainting_val2017_330790_up.png,mask/elephant_330790_mask.png,1,coco_330790,real/elephant_330790.png,elephant
+fake/glide_inpainting_val2017_331352_up.png,fake/glide_inpainting_val2017_331352_up.png,mask/toilet_331352_mask.png,1,coco_331352,real/toilet_331352.png,toilet
+fake/glide_inpainting_val2017_333956_up.png,fake/glide_inpainting_val2017_333956_up.png,mask/parking meter_333956_mask.png,1,coco_333956,real/parking meter_333956.png,parking meter
+fake/glide_inpainting_val2017_335427_up.png,fake/glide_inpainting_val2017_335427_up.png,mask/spoon_335427_mask.png,1,coco_335427,real/spoon_335427.png,spoon
+fake/glide_inpainting_val2017_335450_up.png,fake/glide_inpainting_val2017_335450_up.png,mask/horse_335450_mask.png,1,coco_335450,real/horse_335450.png,horse
+fake/glide_inpainting_val2017_337498_up.png,fake/glide_inpainting_val2017_337498_up.png,mask/pizza_337498_mask.png,1,coco_337498,real/pizza_337498.png,pizza
+fake/glide_inpainting_val2017_338191_up.png,fake/glide_inpainting_val2017_338191_up.png,mask/fire hydrant_338191_mask.png,1,coco_338191,real/fire hydrant_338191.png,fire hydrant
+fake/glide_inpainting_val2017_338986_up.png,fake/glide_inpainting_val2017_338986_up.png,mask/train_338986_mask.png,1,coco_338986,real/train_338986.png,train
+fake/glide_inpainting_val2017_340175_up.png,fake/glide_inpainting_val2017_340175_up.png,mask/dining table_340175_mask.png,1,coco_340175,real/dining table_340175.png,dining table
+fake/glide_inpainting_val2017_340272_up.png,fake/glide_inpainting_val2017_340272_up.png,mask/sheep_340272_mask.png,1,coco_340272,real/sheep_340272.png,sheep
+fake/glide_inpainting_val2017_341058_up.png,fake/glide_inpainting_val2017_341058_up.png,mask/umbrella_341058_mask.png,1,coco_341058,real/umbrella_341058.png,umbrella
+fake/glide_inpainting_val2017_34205_up.png,fake/glide_inpainting_val2017_34205_up.png,mask/broccoli_34205_mask.png,1,coco_34205,real/broccoli_34205.png,broccoli
+fake/glide_inpainting_val2017_343076_up.png,fake/glide_inpainting_val2017_343076_up.png,mask/laptop_343076_mask.png,1,coco_343076,real/laptop_343076.png,laptop
+fake/glide_inpainting_val2017_344614_up.png,fake/glide_inpainting_val2017_344614_up.png,mask/clock_344614_mask.png,1,coco_344614,real/clock_344614.png,clock
+fake/glide_inpainting_val2017_344795_up.png,fake/glide_inpainting_val2017_344795_up.png,mask/cake_344795_mask.png,1,coco_344795,real/cake_344795.png,cake
+fake/glide_inpainting_val2017_346707_up.png,fake/glide_inpainting_val2017_346707_up.png,mask/banana_346707_mask.png,1,coco_346707,real/banana_346707.png,banana
+fake/glide_inpainting_val2017_347664_up.png,fake/glide_inpainting_val2017_347664_up.png,mask/cow_347664_mask.png,1,coco_347664,real/cow_347664.png,cow
+fake/glide_inpainting_val2017_348012_up.png,fake/glide_inpainting_val2017_348012_up.png,mask/scissors_348012_mask.png,1,coco_348012,real/scissors_348012.png,scissors
+fake/glide_inpainting_val2017_348216_up.png,fake/glide_inpainting_val2017_348216_up.png,mask/toilet_348216_mask.png,1,coco_348216,real/toilet_348216.png,toilet
+fake/glide_inpainting_val2017_348708_up.png,fake/glide_inpainting_val2017_348708_up.png,mask/banana_348708_mask.png,1,coco_348708,real/banana_348708.png,banana
+fake/glide_inpainting_val2017_349152_up.png,fake/glide_inpainting_val2017_349152_up.png,mask/donut_349152_mask.png,1,coco_349152,real/donut_349152.png,donut
+fake/glide_inpainting_val2017_3501_up.png,fake/glide_inpainting_val2017_3501_up.png,mask/broccoli_3501_mask.png,1,coco_3501,real/broccoli_3501.png,broccoli
+fake/glide_inpainting_val2017_350388_up.png,fake/glide_inpainting_val2017_350388_up.png,mask/broccoli_350388_mask.png,1,coco_350388,real/broccoli_350388.png,broccoli
+fake/glide_inpainting_val2017_351331_up.png,fake/glide_inpainting_val2017_351331_up.png,mask/pizza_351331_mask.png,1,coco_351331,real/pizza_351331.png,pizza
+fake/glide_inpainting_val2017_355677_up.png,fake/glide_inpainting_val2017_355677_up.png,mask/surfboard_355677_mask.png,1,coco_355677,real/surfboard_355677.png,surfboard
+fake/glide_inpainting_val2017_355905_up.png,fake/glide_inpainting_val2017_355905_up.png,mask/dog_355905_mask.png,1,coco_355905,real/dog_355905.png,dog
+fake/glide_inpainting_val2017_356498_up.png,fake/glide_inpainting_val2017_356498_up.png,mask/broccoli_356498_mask.png,1,coco_356498,real/broccoli_356498.png,broccoli
+fake/glide_inpainting_val2017_357501_up.png,fake/glide_inpainting_val2017_357501_up.png,mask/scissors_357501_mask.png,1,coco_357501,real/scissors_357501.png,scissors
+fake/glide_inpainting_val2017_357941_up.png,fake/glide_inpainting_val2017_357941_up.png,mask/tv_357941_mask.png,1,coco_357941,real/tv_357941.png,tv
+fake/glide_inpainting_val2017_35963_up.png,fake/glide_inpainting_val2017_35963_up.png,mask/teddy bear_35963_mask.png,1,coco_35963,real/teddy bear_35963.png,teddy bear
+fake/glide_inpainting_val2017_359855_up.png,fake/glide_inpainting_val2017_359855_up.png,mask/suitcase_359855_mask.png,1,coco_359855,real/suitcase_359855.png,suitcase
+fake/glide_inpainting_val2017_361571_up.png,fake/glide_inpainting_val2017_361571_up.png,mask/dog_361571_mask.png,1,coco_361571,real/dog_361571.png,dog
+fake/glide_inpainting_val2017_364322_up.png,fake/glide_inpainting_val2017_364322_up.png,mask/sheep_364322_mask.png,1,coco_364322,real/sheep_364322.png,sheep
+fake/glide_inpainting_val2017_364587_up.png,fake/glide_inpainting_val2017_364587_up.png,mask/train_364587_mask.png,1,coco_364587,real/train_364587.png,train
+fake/glide_inpainting_val2017_365385_up.png,fake/glide_inpainting_val2017_365385_up.png,mask/toothbrush_365385_mask.png,1,coco_365385,real/toothbrush_365385.png,toothbrush
+fake/glide_inpainting_val2017_365766_up.png,fake/glide_inpainting_val2017_365766_up.png,mask/microwave_365766_mask.png,1,coco_365766,real/microwave_365766.png,microwave
+fake/glide_inpainting_val2017_366141_up.png,fake/glide_inpainting_val2017_366141_up.png,mask/tv_366141_mask.png,1,coco_366141,real/tv_366141.png,tv
+fake/glide_inpainting_val2017_366199_up.png,fake/glide_inpainting_val2017_366199_up.png,mask/bed_366199_mask.png,1,coco_366199,real/bed_366199.png,bed
+fake/glide_inpainting_val2017_36844_up.png,fake/glide_inpainting_val2017_36844_up.png,mask/bicycle_36844_mask.png,1,coco_36844,real/bicycle_36844.png,bicycle
+fake/glide_inpainting_val2017_36861_up.png,fake/glide_inpainting_val2017_36861_up.png,mask/parking meter_36861_mask.png,1,coco_36861,real/parking meter_36861.png,parking meter
+fake/glide_inpainting_val2017_368684_up.png,fake/glide_inpainting_val2017_368684_up.png,mask/tv_368684_mask.png,1,coco_368684,real/tv_368684.png,tv
+fake/glide_inpainting_val2017_369370_up.png,fake/glide_inpainting_val2017_369370_up.png,mask/orange_369370_mask.png,1,coco_369370,real/orange_369370.png,orange
+fake/glide_inpainting_val2017_369751_up.png,fake/glide_inpainting_val2017_369751_up.png,mask/parking meter_369751_mask.png,1,coco_369751,real/parking meter_369751.png,parking meter
+fake/glide_inpainting_val2017_369757_up.png,fake/glide_inpainting_val2017_369757_up.png,mask/pizza_369757_mask.png,1,coco_369757,real/pizza_369757.png,pizza
+fake/glide_inpainting_val2017_369771_up.png,fake/glide_inpainting_val2017_369771_up.png,mask/sandwich_369771_mask.png,1,coco_369771,real/sandwich_369771.png,sandwich
+fake/glide_inpainting_val2017_370478_up.png,fake/glide_inpainting_val2017_370478_up.png,mask/suitcase_370478_mask.png,1,coco_370478,real/suitcase_370478.png,suitcase
+fake/glide_inpainting_val2017_370900_up.png,fake/glide_inpainting_val2017_370900_up.png,mask/teddy bear_370900_mask.png,1,coco_370900,real/teddy bear_370900.png,teddy bear
+fake/glide_inpainting_val2017_372260_up.png,fake/glide_inpainting_val2017_372260_up.png,mask/potted plant_372260_mask.png,1,coco_372260,real/potted plant_372260.png,potted plant
+fake/glide_inpainting_val2017_375078_up.png,fake/glide_inpainting_val2017_375078_up.png,mask/bottle_375078_mask.png,1,coco_375078,real/bottle_375078.png,bottle
+fake/glide_inpainting_val2017_377575_up.png,fake/glide_inpainting_val2017_377575_up.png,mask/fire hydrant_377575_mask.png,1,coco_377575,real/fire hydrant_377575.png,fire hydrant
+fake/glide_inpainting_val2017_377814_up.png,fake/glide_inpainting_val2017_377814_up.png,mask/donut_377814_mask.png,1,coco_377814,real/donut_377814.png,donut
+fake/glide_inpainting_val2017_377882_up.png,fake/glide_inpainting_val2017_377882_up.png,mask/surfboard_377882_mask.png,1,coco_377882,real/surfboard_377882.png,surfboard
+fake/glide_inpainting_val2017_380203_up.png,fake/glide_inpainting_val2017_380203_up.png,mask/horse_380203_mask.png,1,coco_380203,real/horse_380203.png,horse
+fake/glide_inpainting_val2017_382088_up.png,fake/glide_inpainting_val2017_382088_up.png,mask/horse_382088_mask.png,1,coco_382088,real/horse_382088.png,horse
+fake/glide_inpainting_val2017_383621_up.png,fake/glide_inpainting_val2017_383621_up.png,mask/airplane_383621_mask.png,1,coco_383621,real/airplane_383621.png,airplane
+fake/glide_inpainting_val2017_384513_up.png,fake/glide_inpainting_val2017_384513_up.png,mask/horse_384513_mask.png,1,coco_384513,real/horse_384513.png,horse
+fake/glide_inpainting_val2017_3845_up.png,fake/glide_inpainting_val2017_3845_up.png,mask/broccoli_3845_mask.png,1,coco_3845,real/broccoli_3845.png,broccoli
+fake/glide_inpainting_val2017_384616_up.png,fake/glide_inpainting_val2017_384616_up.png,mask/fire hydrant_384616_mask.png,1,coco_384616,real/fire hydrant_384616.png,fire hydrant
+fake/glide_inpainting_val2017_384651_up.png,fake/glide_inpainting_val2017_384651_up.png,mask/bed_384651_mask.png,1,coco_384651,real/bed_384651.png,bed
+fake/glide_inpainting_val2017_386210_up.png,fake/glide_inpainting_val2017_386210_up.png,mask/orange_386210_mask.png,1,coco_386210,real/orange_386210.png,orange
+fake/glide_inpainting_val2017_387098_up.png,fake/glide_inpainting_val2017_387098_up.png,mask/tv_387098_mask.png,1,coco_387098,real/tv_387098.png,tv
+fake/glide_inpainting_val2017_389315_up.png,fake/glide_inpainting_val2017_389315_up.png,mask/suitcase_389315_mask.png,1,coco_389315,real/suitcase_389315.png,suitcase
+fake/glide_inpainting_val2017_389381_up.png,fake/glide_inpainting_val2017_389381_up.png,mask/broccoli_389381_mask.png,1,coco_389381,real/broccoli_389381.png,broccoli
+fake/glide_inpainting_val2017_390301_up.png,fake/glide_inpainting_val2017_390301_up.png,mask/fire hydrant_390301_mask.png,1,coco_390301,real/fire hydrant_390301.png,fire hydrant
+fake/glide_inpainting_val2017_392228_up.png,fake/glide_inpainting_val2017_392228_up.png,mask/clock_392228_mask.png,1,coco_392228,real/clock_392228.png,clock
+fake/glide_inpainting_val2017_392818_up.png,fake/glide_inpainting_val2017_392818_up.png,mask/dog_392818_mask.png,1,coco_392818,real/dog_392818.png,dog
+fake/glide_inpainting_val2017_393014_up.png,fake/glide_inpainting_val2017_393014_up.png,mask/hot dog_393014_mask.png,1,coco_393014,real/hot dog_393014.png,hot dog
+fake/glide_inpainting_val2017_393282_up.png,fake/glide_inpainting_val2017_393282_up.png,mask/giraffe_393282_mask.png,1,coco_393282,real/giraffe_393282.png,giraffe
+fake/glide_inpainting_val2017_393838_up.png,fake/glide_inpainting_val2017_393838_up.png,mask/oven_393838_mask.png,1,coco_393838,real/oven_393838.png,oven
+fake/glide_inpainting_val2017_394328_up.png,fake/glide_inpainting_val2017_394328_up.png,mask/toilet_394328_mask.png,1,coco_394328,real/toilet_394328.png,toilet
+fake/glide_inpainting_val2017_39956_up.png,fake/glide_inpainting_val2017_39956_up.png,mask/bed_39956_mask.png,1,coco_39956,real/bed_39956.png,bed
+fake/glide_inpainting_val2017_402433_up.png,fake/glide_inpainting_val2017_402433_up.png,mask/pizza_402433_mask.png,1,coco_402433,real/pizza_402433.png,pizza
+fake/glide_inpainting_val2017_402473_up.png,fake/glide_inpainting_val2017_402473_up.png,mask/cat_402473_mask.png,1,coco_402473,real/cat_402473.png,cat
+fake/glide_inpainting_val2017_402519_up.png,fake/glide_inpainting_val2017_402519_up.png,mask/bird_402519_mask.png,1,coco_402519,real/bird_402519.png,bird
+fake/glide_inpainting_val2017_402992_up.png,fake/glide_inpainting_val2017_402992_up.png,mask/cow_402992_mask.png,1,coco_402992,real/cow_402992.png,cow
+fake/glide_inpainting_val2017_404568_up.png,fake/glide_inpainting_val2017_404568_up.png,mask/bird_404568_mask.png,1,coco_404568,real/bird_404568.png,bird
+fake/glide_inpainting_val2017_405205_up.png,fake/glide_inpainting_val2017_405205_up.png,mask/bus_405205_mask.png,1,coco_405205,real/bus_405205.png,bus
+fake/glide_inpainting_val2017_405432_up.png,fake/glide_inpainting_val2017_405432_up.png,mask/donut_405432_mask.png,1,coco_405432,real/donut_405432.png,donut
+fake/glide_inpainting_val2017_406570_up.png,fake/glide_inpainting_val2017_406570_up.png,mask/orange_406570_mask.png,1,coco_406570,real/orange_406570.png,orange
+fake/glide_inpainting_val2017_407574_up.png,fake/glide_inpainting_val2017_407574_up.png,mask/banana_407574_mask.png,1,coco_407574,real/banana_407574.png,banana
+fake/glide_inpainting_val2017_408830_up.png,fake/glide_inpainting_val2017_408830_up.png,mask/motorcycle_408830_mask.png,1,coco_408830,real/motorcycle_408830.png,motorcycle
+fake/glide_inpainting_val2017_409268_up.png,fake/glide_inpainting_val2017_409268_up.png,mask/teddy bear_409268_mask.png,1,coco_409268,real/teddy bear_409268.png,teddy bear
+fake/glide_inpainting_val2017_409630_up.png,fake/glide_inpainting_val2017_409630_up.png,mask/mouse_409630_mask.png,1,coco_409630,real/mouse_409630.png,mouse
+fake/glide_inpainting_val2017_410878_up.png,fake/glide_inpainting_val2017_410878_up.png,mask/motorcycle_410878_mask.png,1,coco_410878,real/motorcycle_410878.png,motorcycle
+fake/glide_inpainting_val2017_411665_up.png,fake/glide_inpainting_val2017_411665_up.png,mask/cat_411665_mask.png,1,coco_411665,real/cat_411665.png,cat
+fake/glide_inpainting_val2017_414261_up.png,fake/glide_inpainting_val2017_414261_up.png,mask/bear_414261_mask.png,1,coco_414261,real/bear_414261.png,bear
+fake/glide_inpainting_val2017_415238_up.png,fake/glide_inpainting_val2017_415238_up.png,mask/potted plant_415238_mask.png,1,coco_415238,real/potted plant_415238.png,potted plant
+fake/glide_inpainting_val2017_416256_up.png,fake/glide_inpainting_val2017_416256_up.png,mask/keyboard_416256_mask.png,1,coco_416256,real/keyboard_416256.png,keyboard
+fake/glide_inpainting_val2017_416269_up.png,fake/glide_inpainting_val2017_416269_up.png,mask/train_416269_mask.png,1,coco_416269,real/train_416269.png,train
+fake/glide_inpainting_val2017_416330_up.png,fake/glide_inpainting_val2017_416330_up.png,mask/cat_416330_mask.png,1,coco_416330,real/cat_416330.png,cat
+fake/glide_inpainting_val2017_416837_up.png,fake/glide_inpainting_val2017_416837_up.png,mask/cow_416837_mask.png,1,coco_416837,real/cow_416837.png,cow
+fake/glide_inpainting_val2017_416885_up.png,fake/glide_inpainting_val2017_416885_up.png,mask/wine glass_416885_mask.png,1,coco_416885,real/wine glass_416885.png,wine glass
+fake/glide_inpainting_val2017_416991_up.png,fake/glide_inpainting_val2017_416991_up.png,mask/umbrella_416991_mask.png,1,coco_416991,real/umbrella_416991.png,umbrella
+fake/glide_inpainting_val2017_417876_up.png,fake/glide_inpainting_val2017_417876_up.png,mask/giraffe_417876_mask.png,1,coco_417876,real/giraffe_417876.png,giraffe
+fake/glide_inpainting_val2017_418961_up.png,fake/glide_inpainting_val2017_418961_up.png,mask/clock_418961_mask.png,1,coco_418961,real/clock_418961.png,clock
+fake/glide_inpainting_val2017_420472_up.png,fake/glide_inpainting_val2017_420472_up.png,mask/giraffe_420472_mask.png,1,coco_420472,real/giraffe_420472.png,giraffe
+fake/glide_inpainting_val2017_423519_up.png,fake/glide_inpainting_val2017_423519_up.png,mask/bus_423519_mask.png,1,coco_423519,real/bus_423519.png,bus
+fake/glide_inpainting_val2017_423971_up.png,fake/glide_inpainting_val2017_423971_up.png,mask/toilet_423971_mask.png,1,coco_423971,real/toilet_423971.png,toilet
+fake/glide_inpainting_val2017_424721_up.png,fake/glide_inpainting_val2017_424721_up.png,mask/apple_424721_mask.png,1,coco_424721,real/apple_424721.png,apple
+fake/glide_inpainting_val2017_426166_up.png,fake/glide_inpainting_val2017_426166_up.png,mask/bicycle_426166_mask.png,1,coco_426166,real/bicycle_426166.png,bicycle
+fake/glide_inpainting_val2017_426253_up.png,fake/glide_inpainting_val2017_426253_up.png,mask/microwave_426253_mask.png,1,coco_426253,real/microwave_426253.png,microwave
+fake/glide_inpainting_val2017_428280_up.png,fake/glide_inpainting_val2017_428280_up.png,mask/chair_428280_mask.png,1,coco_428280,real/chair_428280.png,chair
+fake/glide_inpainting_val2017_430286_up.png,fake/glide_inpainting_val2017_430286_up.png,mask/remote_430286_mask.png,1,coco_430286,real/remote_430286.png,remote
+fake/glide_inpainting_val2017_430871_up.png,fake/glide_inpainting_val2017_430871_up.png,mask/parking meter_430871_mask.png,1,coco_430871,real/parking meter_430871.png,parking meter
+fake/glide_inpainting_val2017_431140_up.png,fake/glide_inpainting_val2017_431140_up.png,mask/toilet_431140_mask.png,1,coco_431140,real/toilet_431140.png,toilet
+fake/glide_inpainting_val2017_432468_up.png,fake/glide_inpainting_val2017_432468_up.png,mask/suitcase_432468_mask.png,1,coco_432468,real/suitcase_432468.png,suitcase
+fake/glide_inpainting_val2017_433192_up.png,fake/glide_inpainting_val2017_433192_up.png,mask/laptop_433192_mask.png,1,coco_433192,real/laptop_433192.png,laptop
+fake/glide_inpainting_val2017_433374_up.png,fake/glide_inpainting_val2017_433374_up.png,mask/elephant_433374_mask.png,1,coco_433374,real/elephant_433374.png,elephant
+fake/glide_inpainting_val2017_434297_up.png,fake/glide_inpainting_val2017_434297_up.png,mask/sandwich_434297_mask.png,1,coco_434297,real/sandwich_434297.png,sandwich
+fake/glide_inpainting_val2017_435299_up.png,fake/glide_inpainting_val2017_435299_up.png,mask/bed_435299_mask.png,1,coco_435299,real/bed_435299.png,bed
+fake/glide_inpainting_val2017_43581_up.png,fake/glide_inpainting_val2017_43581_up.png,mask/pizza_43581_mask.png,1,coco_43581,real/pizza_43581.png,pizza
+fake/glide_inpainting_val2017_435880_up.png,fake/glide_inpainting_val2017_435880_up.png,mask/refrigerator_435880_mask.png,1,coco_435880,real/refrigerator_435880.png,refrigerator
+fake/glide_inpainting_val2017_438226_up.png,fake/glide_inpainting_val2017_438226_up.png,mask/hot dog_438226_mask.png,1,coco_438226,real/hot dog_438226.png,hot dog
+fake/glide_inpainting_val2017_443303_up.png,fake/glide_inpainting_val2017_443303_up.png,mask/suitcase_443303_mask.png,1,coco_443303,real/suitcase_443303.png,suitcase
+fake/glide_inpainting_val2017_446207_up.png,fake/glide_inpainting_val2017_446207_up.png,mask/cell phone_446207_mask.png,1,coco_446207,real/cell phone_446207.png,cell phone
+fake/glide_inpainting_val2017_446522_up.png,fake/glide_inpainting_val2017_446522_up.png,mask/refrigerator_446522_mask.png,1,coco_446522,real/refrigerator_446522.png,refrigerator
+fake/glide_inpainting_val2017_44652_up.png,fake/glide_inpainting_val2017_44652_up.png,mask/airplane_44652_mask.png,1,coco_44652,real/airplane_44652.png,airplane
+fake/glide_inpainting_val2017_44699_up.png,fake/glide_inpainting_val2017_44699_up.png,mask/sheep_44699_mask.png,1,coco_44699,real/sheep_44699.png,sheep
+fake/glide_inpainting_val2017_450439_up.png,fake/glide_inpainting_val2017_450439_up.png,mask/kite_450439_mask.png,1,coco_450439,real/kite_450439.png,kite
+fake/glide_inpainting_val2017_451090_up.png,fake/glide_inpainting_val2017_451090_up.png,mask/boat_451090_mask.png,1,coco_451090,real/boat_451090.png,boat
+fake/glide_inpainting_val2017_451150_up.png,fake/glide_inpainting_val2017_451150_up.png,mask/donut_451150_mask.png,1,coco_451150,real/donut_451150.png,donut
+fake/glide_inpainting_val2017_451693_up.png,fake/glide_inpainting_val2017_451693_up.png,mask/pizza_451693_mask.png,1,coco_451693,real/pizza_451693.png,pizza
+fake/glide_inpainting_val2017_452084_up.png,fake/glide_inpainting_val2017_452084_up.png,mask/hot dog_452084_mask.png,1,coco_452084,real/hot dog_452084.png,hot dog
+fake/glide_inpainting_val2017_452122_up.png,fake/glide_inpainting_val2017_452122_up.png,mask/airplane_452122_mask.png,1,coco_452122,real/airplane_452122.png,airplane
+fake/glide_inpainting_val2017_452321_up.png,fake/glide_inpainting_val2017_452321_up.png,mask/bus_452321_mask.png,1,coco_452321,real/bus_452321.png,bus
+fake/glide_inpainting_val2017_453722_up.png,fake/glide_inpainting_val2017_453722_up.png,mask/tv_453722_mask.png,1,coco_453722,real/tv_453722.png,tv
+fake/glide_inpainting_val2017_453860_up.png,fake/glide_inpainting_val2017_453860_up.png,mask/suitcase_453860_mask.png,1,coco_453860,real/suitcase_453860.png,suitcase
+fake/glide_inpainting_val2017_455267_up.png,fake/glide_inpainting_val2017_455267_up.png,mask/oven_455267_mask.png,1,coco_455267,real/oven_455267.png,oven
+fake/glide_inpainting_val2017_456394_up.png,fake/glide_inpainting_val2017_456394_up.png,mask/motorcycle_456394_mask.png,1,coco_456394,real/motorcycle_456394.png,motorcycle
+fake/glide_inpainting_val2017_458663_up.png,fake/glide_inpainting_val2017_458663_up.png,mask/umbrella_458663_mask.png,1,coco_458663,real/umbrella_458663.png,umbrella
+fake/glide_inpainting_val2017_458702_up.png,fake/glide_inpainting_val2017_458702_up.png,mask/parking meter_458702_mask.png,1,coco_458702,real/parking meter_458702.png,parking meter
+fake/glide_inpainting_val2017_460379_up.png,fake/glide_inpainting_val2017_460379_up.png,mask/giraffe_460379_mask.png,1,coco_460379,real/giraffe_460379.png,giraffe
+fake/glide_inpainting_val2017_465430_up.png,fake/glide_inpainting_val2017_465430_up.png,mask/spoon_465430_mask.png,1,coco_465430,real/spoon_465430.png,spoon
+fake/glide_inpainting_val2017_470121_up.png,fake/glide_inpainting_val2017_470121_up.png,mask/cake_470121_mask.png,1,coco_470121,real/cake_470121.png,cake
+fake/glide_inpainting_val2017_47121_up.png,fake/glide_inpainting_val2017_47121_up.png,mask/sink_47121_mask.png,1,coco_47121,real/sink_47121.png,sink
+fake/glide_inpainting_val2017_471869_up.png,fake/glide_inpainting_val2017_471869_up.png,mask/tie_471869_mask.png,1,coco_471869,real/tie_471869.png,tie
+fake/glide_inpainting_val2017_474164_up.png,fake/glide_inpainting_val2017_474164_up.png,mask/truck_474164_mask.png,1,coco_474164,real/truck_474164.png,truck
+fake/glide_inpainting_val2017_474170_up.png,fake/glide_inpainting_val2017_474170_up.png,mask/elephant_474170_mask.png,1,coco_474170,real/elephant_474170.png,elephant
+fake/glide_inpainting_val2017_475678_up.png,fake/glide_inpainting_val2017_475678_up.png,mask/suitcase_475678_mask.png,1,coco_475678,real/suitcase_475678.png,suitcase
+fake/glide_inpainting_val2017_475779_up.png,fake/glide_inpainting_val2017_475779_up.png,mask/elephant_475779_mask.png,1,coco_475779,real/elephant_475779.png,elephant
+fake/glide_inpainting_val2017_476787_up.png,fake/glide_inpainting_val2017_476787_up.png,mask/pizza_476787_mask.png,1,coco_476787,real/pizza_476787.png,pizza
+fake/glide_inpainting_val2017_47769_up.png,fake/glide_inpainting_val2017_47769_up.png,mask/couch_47769_mask.png,1,coco_47769,real/couch_47769.png,couch
+fake/glide_inpainting_val2017_478286_up.png,fake/glide_inpainting_val2017_478286_up.png,mask/train_478286_mask.png,1,coco_478286,real/train_478286.png,train
+fake/glide_inpainting_val2017_478393_up.png,fake/glide_inpainting_val2017_478393_up.png,mask/teddy bear_478393_mask.png,1,coco_478393,real/teddy bear_478393.png,teddy bear
+fake/glide_inpainting_val2017_480842_up.png,fake/glide_inpainting_val2017_480842_up.png,mask/giraffe_480842_mask.png,1,coco_480842,real/giraffe_480842.png,giraffe
+fake/glide_inpainting_val2017_485130_up.png,fake/glide_inpainting_val2017_485130_up.png,mask/cake_485130_mask.png,1,coco_485130,real/cake_485130.png,cake
+fake/glide_inpainting_val2017_485424_up.png,fake/glide_inpainting_val2017_485424_up.png,mask/suitcase_485424_mask.png,1,coco_485424,real/suitcase_485424.png,suitcase
+fake/glide_inpainting_val2017_485972_up.png,fake/glide_inpainting_val2017_485972_up.png,mask/fork_485972_mask.png,1,coco_485972,real/fork_485972.png,fork
+fake/glide_inpainting_val2017_486046_up.png,fake/glide_inpainting_val2017_486046_up.png,mask/giraffe_486046_mask.png,1,coco_486046,real/giraffe_486046.png,giraffe
+fake/glide_inpainting_val2017_486479_up.png,fake/glide_inpainting_val2017_486479_up.png,mask/dog_486479_mask.png,1,coco_486479,real/dog_486479.png,dog
+fake/glide_inpainting_val2017_488075_up.png,fake/glide_inpainting_val2017_488075_up.png,mask/refrigerator_488075_mask.png,1,coco_488075,real/refrigerator_488075.png,refrigerator
+fake/glide_inpainting_val2017_489046_up.png,fake/glide_inpainting_val2017_489046_up.png,mask/bird_489046_mask.png,1,coco_489046,real/bird_489046.png,bird
+fake/glide_inpainting_val2017_48924_up.png,fake/glide_inpainting_val2017_48924_up.png,mask/motorcycle_48924_mask.png,1,coco_48924,real/motorcycle_48924.png,motorcycle
+fake/glide_inpainting_val2017_491725_up.png,fake/glide_inpainting_val2017_491725_up.png,mask/boat_491725_mask.png,1,coco_491725,real/boat_491725.png,boat
+fake/glide_inpainting_val2017_49269_up.png,fake/glide_inpainting_val2017_49269_up.png,mask/horse_49269_mask.png,1,coco_49269,real/horse_49269.png,horse
+fake/glide_inpainting_val2017_493284_up.png,fake/glide_inpainting_val2017_493284_up.png,mask/elephant_493284_mask.png,1,coco_493284,real/elephant_493284.png,elephant
+fake/glide_inpainting_val2017_493334_up.png,fake/glide_inpainting_val2017_493334_up.png,mask/cake_493334_mask.png,1,coco_493334,real/cake_493334.png,cake
+fake/glide_inpainting_val2017_498286_up.png,fake/glide_inpainting_val2017_498286_up.png,mask/truck_498286_mask.png,1,coco_498286,real/truck_498286.png,truck
+fake/glide_inpainting_val2017_499768_up.png,fake/glide_inpainting_val2017_499768_up.png,mask/fire hydrant_499768_mask.png,1,coco_499768,real/fire hydrant_499768.png,fire hydrant
+fake/glide_inpainting_val2017_50331_up.png,fake/glide_inpainting_val2017_50331_up.png,mask/broccoli_50331_mask.png,1,coco_50331,real/broccoli_50331.png,broccoli
+fake/glide_inpainting_val2017_504439_up.png,fake/glide_inpainting_val2017_504439_up.png,mask/zebra_504439_mask.png,1,coco_504439,real/zebra_504439.png,zebra
+fake/glide_inpainting_val2017_505573_up.png,fake/glide_inpainting_val2017_505573_up.png,mask/tie_505573_mask.png,1,coco_505573,real/tie_505573.png,tie
+fake/glide_inpainting_val2017_50844_up.png,fake/glide_inpainting_val2017_50844_up.png,mask/teddy bear_50844_mask.png,1,coco_50844,real/teddy bear_50844.png,teddy bear
+fake/glide_inpainting_val2017_508482_up.png,fake/glide_inpainting_val2017_508482_up.png,mask/train_508482_mask.png,1,coco_508482,real/train_508482.png,train
+fake/glide_inpainting_val2017_508639_up.png,fake/glide_inpainting_val2017_508639_up.png,mask/horse_508639_mask.png,1,coco_508639,real/horse_508639.png,horse
+fake/glide_inpainting_val2017_50896_up.png,fake/glide_inpainting_val2017_50896_up.png,mask/orange_50896_mask.png,1,coco_50896,real/orange_50896.png,orange
+fake/glide_inpainting_val2017_509131_up.png,fake/glide_inpainting_val2017_509131_up.png,mask/orange_509131_mask.png,1,coco_509131,real/orange_509131.png,orange
+fake/glide_inpainting_val2017_512648_up.png,fake/glide_inpainting_val2017_512648_up.png,mask/cow_512648_mask.png,1,coco_512648,real/cow_512648.png,cow
+fake/glide_inpainting_val2017_51309_up.png,fake/glide_inpainting_val2017_51309_up.png,mask/horse_51309_mask.png,1,coco_51309,real/horse_51309.png,horse
+fake/glide_inpainting_val2017_51326_up.png,fake/glide_inpainting_val2017_51326_up.png,mask/vase_51326_mask.png,1,coco_51326,real/vase_51326.png,vase
+fake/glide_inpainting_val2017_516871_up.png,fake/glide_inpainting_val2017_516871_up.png,mask/broccoli_516871_mask.png,1,coco_516871,real/broccoli_516871.png,broccoli
+fake/glide_inpainting_val2017_518213_up.png,fake/glide_inpainting_val2017_518213_up.png,mask/cow_518213_mask.png,1,coco_518213,real/cow_518213.png,cow
+fake/glide_inpainting_val2017_51961_up.png,fake/glide_inpainting_val2017_51961_up.png,mask/parking meter_51961_mask.png,1,coco_51961,real/parking meter_51961.png,parking meter
+fake/glide_inpainting_val2017_520871_up.png,fake/glide_inpainting_val2017_520871_up.png,mask/pizza_520871_mask.png,1,coco_520871,real/pizza_520871.png,pizza
+fake/glide_inpainting_val2017_521282_up.png,fake/glide_inpainting_val2017_521282_up.png,mask/vase_521282_mask.png,1,coco_521282,real/vase_521282.png,vase
+fake/glide_inpainting_val2017_521405_up.png,fake/glide_inpainting_val2017_521405_up.png,mask/toothbrush_521405_mask.png,1,coco_521405,real/toothbrush_521405.png,toothbrush
+fake/glide_inpainting_val2017_523782_up.png,fake/glide_inpainting_val2017_523782_up.png,mask/truck_523782_mask.png,1,coco_523782,real/truck_523782.png,truck
+fake/glide_inpainting_val2017_524108_up.png,fake/glide_inpainting_val2017_524108_up.png,mask/motorcycle_524108_mask.png,1,coco_524108,real/motorcycle_524108.png,motorcycle
+fake/glide_inpainting_val2017_525322_up.png,fake/glide_inpainting_val2017_525322_up.png,mask/airplane_525322_mask.png,1,coco_525322,real/airplane_525322.png,airplane
+fake/glide_inpainting_val2017_526103_up.png,fake/glide_inpainting_val2017_526103_up.png,mask/umbrella_526103_mask.png,1,coco_526103,real/umbrella_526103.png,umbrella
+fake/glide_inpainting_val2017_526392_up.png,fake/glide_inpainting_val2017_526392_up.png,mask/traffic light_526392_mask.png,1,coco_526392,real/traffic light_526392.png,traffic light
+fake/glide_inpainting_val2017_528524_up.png,fake/glide_inpainting_val2017_528524_up.png,mask/sheep_528524_mask.png,1,coco_528524,real/sheep_528524.png,sheep
+fake/glide_inpainting_val2017_528980_up.png,fake/glide_inpainting_val2017_528980_up.png,mask/umbrella_528980_mask.png,1,coco_528980,real/umbrella_528980.png,umbrella
+fake/glide_inpainting_val2017_529105_up.png,fake/glide_inpainting_val2017_529105_up.png,mask/horse_529105_mask.png,1,coco_529105,real/horse_529105.png,horse
+fake/glide_inpainting_val2017_530052_up.png,fake/glide_inpainting_val2017_530052_up.png,mask/carrot_530052_mask.png,1,coco_530052,real/carrot_530052.png,carrot
+fake/glide_inpainting_val2017_530457_up.png,fake/glide_inpainting_val2017_530457_up.png,mask/vase_530457_mask.png,1,coco_530457,real/vase_530457.png,vase
+fake/glide_inpainting_val2017_531495_up.png,fake/glide_inpainting_val2017_531495_up.png,mask/boat_531495_mask.png,1,coco_531495,real/boat_531495.png,boat
+fake/glide_inpainting_val2017_532129_up.png,fake/glide_inpainting_val2017_532129_up.png,mask/pizza_532129_mask.png,1,coco_532129,real/pizza_532129.png,pizza
+fake/glide_inpainting_val2017_532575_up.png,fake/glide_inpainting_val2017_532575_up.png,mask/dog_532575_mask.png,1,coco_532575,real/dog_532575.png,dog
+fake/glide_inpainting_val2017_533206_up.png,fake/glide_inpainting_val2017_533206_up.png,mask/wine glass_533206_mask.png,1,coco_533206,real/wine glass_533206.png,wine glass
+fake/glide_inpainting_val2017_534601_up.png,fake/glide_inpainting_val2017_534601_up.png,mask/teddy bear_534601_mask.png,1,coco_534601,real/teddy bear_534601.png,teddy bear
+fake/glide_inpainting_val2017_534639_up.png,fake/glide_inpainting_val2017_534639_up.png,mask/train_534639_mask.png,1,coco_534639,real/train_534639.png,train
+fake/glide_inpainting_val2017_534664_up.png,fake/glide_inpainting_val2017_534664_up.png,mask/suitcase_534664_mask.png,1,coco_534664,real/suitcase_534664.png,suitcase
+fake/glide_inpainting_val2017_535156_up.png,fake/glide_inpainting_val2017_535156_up.png,mask/elephant_535156_mask.png,1,coco_535156,real/elephant_535156.png,elephant
+fake/glide_inpainting_val2017_537672_up.png,fake/glide_inpainting_val2017_537672_up.png,mask/refrigerator_537672_mask.png,1,coco_537672,real/refrigerator_537672.png,refrigerator
+fake/glide_inpainting_val2017_537802_up.png,fake/glide_inpainting_val2017_537802_up.png,mask/teddy bear_537802_mask.png,1,coco_537802,real/teddy bear_537802.png,teddy bear
+fake/glide_inpainting_val2017_53994_up.png,fake/glide_inpainting_val2017_53994_up.png,mask/parking meter_53994_mask.png,1,coco_53994,real/parking meter_53994.png,parking meter
+fake/glide_inpainting_val2017_540280_up.png,fake/glide_inpainting_val2017_540280_up.png,mask/umbrella_540280_mask.png,1,coco_540280,real/umbrella_540280.png,umbrella
+fake/glide_inpainting_val2017_540928_up.png,fake/glide_inpainting_val2017_540928_up.png,mask/chair_540928_mask.png,1,coco_540928,real/chair_540928.png,chair
+fake/glide_inpainting_val2017_542625_up.png,fake/glide_inpainting_val2017_542625_up.png,mask/parking meter_542625_mask.png,1,coco_542625,real/parking meter_542625.png,parking meter
+fake/glide_inpainting_val2017_543300_up.png,fake/glide_inpainting_val2017_543300_up.png,mask/boat_543300_mask.png,1,coco_543300,real/boat_543300.png,boat
+fake/glide_inpainting_val2017_544052_up.png,fake/glide_inpainting_val2017_544052_up.png,mask/skateboard_544052_mask.png,1,coco_544052,real/skateboard_544052.png,skateboard
+fake/glide_inpainting_val2017_544811_up.png,fake/glide_inpainting_val2017_544811_up.png,mask/bird_544811_mask.png,1,coco_544811,real/bird_544811.png,bird
+fake/glide_inpainting_val2017_545407_up.png,fake/glide_inpainting_val2017_545407_up.png,mask/airplane_545407_mask.png,1,coco_545407,real/airplane_545407.png,airplane
+fake/glide_inpainting_val2017_545826_up.png,fake/glide_inpainting_val2017_545826_up.png,mask/cat_545826_mask.png,1,coco_545826,real/cat_545826.png,cat
+fake/glide_inpainting_val2017_546826_up.png,fake/glide_inpainting_val2017_546826_up.png,mask/scissors_546826_mask.png,1,coco_546826,real/scissors_546826.png,scissors
+fake/glide_inpainting_val2017_546829_up.png,fake/glide_inpainting_val2017_546829_up.png,mask/dog_546829_mask.png,1,coco_546829,real/dog_546829.png,dog
+fake/glide_inpainting_val2017_548506_up.png,fake/glide_inpainting_val2017_548506_up.png,mask/banana_548506_mask.png,1,coco_548506,real/banana_548506.png,banana
+fake/glide_inpainting_val2017_549167_up.png,fake/glide_inpainting_val2017_549167_up.png,mask/broccoli_549167_mask.png,1,coco_549167,real/broccoli_549167.png,broccoli
+fake/glide_inpainting_val2017_550322_up.png,fake/glide_inpainting_val2017_550322_up.png,mask/scissors_550322_mask.png,1,coco_550322,real/scissors_550322.png,scissors
+fake/glide_inpainting_val2017_552612_up.png,fake/glide_inpainting_val2017_552612_up.png,mask/sheep_552612_mask.png,1,coco_552612,real/sheep_552612.png,sheep
+fake/glide_inpainting_val2017_553094_up.png,fake/glide_inpainting_val2017_553094_up.png,mask/airplane_553094_mask.png,1,coco_553094,real/airplane_553094.png,airplane
+fake/glide_inpainting_val2017_555009_up.png,fake/glide_inpainting_val2017_555009_up.png,mask/tv_555009_mask.png,1,coco_555009,real/tv_555009.png,tv
+fake/glide_inpainting_val2017_556765_up.png,fake/glide_inpainting_val2017_556765_up.png,mask/elephant_556765_mask.png,1,coco_556765,real/elephant_556765.png,elephant
+fake/glide_inpainting_val2017_559707_up.png,fake/glide_inpainting_val2017_559707_up.png,mask/fork_559707_mask.png,1,coco_559707,real/fork_559707.png,fork
+fake/glide_inpainting_val2017_561335_up.png,fake/glide_inpainting_val2017_561335_up.png,mask/boat_561335_mask.png,1,coco_561335,real/boat_561335.png,boat
+fake/glide_inpainting_val2017_561366_up.png,fake/glide_inpainting_val2017_561366_up.png,mask/cell phone_561366_mask.png,1,coco_561366,real/cell phone_561366.png,cell phone
+fake/glide_inpainting_val2017_562059_up.png,fake/glide_inpainting_val2017_562059_up.png,mask/apple_562059_mask.png,1,coco_562059,real/apple_562059.png,apple
+fake/glide_inpainting_val2017_562197_up.png,fake/glide_inpainting_val2017_562197_up.png,mask/broccoli_562197_mask.png,1,coco_562197,real/broccoli_562197.png,broccoli
+fake/glide_inpainting_val2017_56344_up.png,fake/glide_inpainting_val2017_56344_up.png,mask/tv_56344_mask.png,1,coco_56344,real/tv_56344.png,tv
+fake/glide_inpainting_val2017_563758_up.png,fake/glide_inpainting_val2017_563758_up.png,mask/teddy bear_563758_mask.png,1,coco_563758,real/teddy bear_563758.png,teddy bear
+fake/glide_inpainting_val2017_567432_up.png,fake/glide_inpainting_val2017_567432_up.png,mask/airplane_567432_mask.png,1,coco_567432,real/airplane_567432.png,airplane
+fake/glide_inpainting_val2017_567825_up.png,fake/glide_inpainting_val2017_567825_up.png,mask/wine glass_567825_mask.png,1,coco_567825,real/wine glass_567825.png,wine glass
+fake/glide_inpainting_val2017_567898_up.png,fake/glide_inpainting_val2017_567898_up.png,mask/orange_567898_mask.png,1,coco_567898,real/orange_567898.png,orange
+fake/glide_inpainting_val2017_57027_up.png,fake/glide_inpainting_val2017_57027_up.png,mask/elephant_57027_mask.png,1,coco_57027,real/elephant_57027.png,elephant
+fake/glide_inpainting_val2017_570456_up.png,fake/glide_inpainting_val2017_570456_up.png,mask/couch_570456_mask.png,1,coco_570456,real/couch_570456.png,couch
+fake/glide_inpainting_val2017_571313_up.png,fake/glide_inpainting_val2017_571313_up.png,mask/microwave_571313_mask.png,1,coco_571313,real/microwave_571313.png,microwave
+fake/glide_inpainting_val2017_571943_up.png,fake/glide_inpainting_val2017_571943_up.png,mask/traffic light_571943_mask.png,1,coco_571943,real/traffic light_571943.png,traffic light
+fake/glide_inpainting_val2017_57232_up.png,fake/glide_inpainting_val2017_57232_up.png,mask/baseball bat_57232_mask.png,1,coco_57232,real/baseball bat_57232.png,baseball bat
+fake/glide_inpainting_val2017_572517_up.png,fake/glide_inpainting_val2017_572517_up.png,mask/bird_572517_mask.png,1,coco_572517,real/bird_572517.png,bird
+fake/glide_inpainting_val2017_572956_up.png,fake/glide_inpainting_val2017_572956_up.png,mask/motorcycle_572956_mask.png,1,coco_572956,real/motorcycle_572956.png,motorcycle
+fake/glide_inpainting_val2017_575500_up.png,fake/glide_inpainting_val2017_575500_up.png,mask/banana_575500_mask.png,1,coco_575500,real/banana_575500.png,banana
+fake/glide_inpainting_val2017_577182_up.png,fake/glide_inpainting_val2017_577182_up.png,mask/bench_577182_mask.png,1,coco_577182,real/bench_577182.png,bench
+fake/glide_inpainting_val2017_577584_up.png,fake/glide_inpainting_val2017_577584_up.png,mask/microwave_577584_mask.png,1,coco_577584,real/microwave_577584.png,microwave
+fake/glide_inpainting_val2017_579091_up.png,fake/glide_inpainting_val2017_579091_up.png,mask/broccoli_579091_mask.png,1,coco_579091,real/broccoli_579091.png,broccoli
+fake/glide_inpainting_val2017_579893_up.png,fake/glide_inpainting_val2017_579893_up.png,mask/stop sign_579893_mask.png,1,coco_579893,real/stop sign_579893.png,stop sign
+fake/glide_inpainting_val2017_580757_up.png,fake/glide_inpainting_val2017_580757_up.png,mask/fire hydrant_580757_mask.png,1,coco_580757,real/fire hydrant_580757.png,fire hydrant
+fake/glide_inpainting_val2017_581781_up.png,fake/glide_inpainting_val2017_581781_up.png,mask/banana_581781_mask.png,1,coco_581781,real/banana_581781.png,banana
+fake/glide_inpainting_val2017_59920_up.png,fake/glide_inpainting_val2017_59920_up.png,mask/toilet_59920_mask.png,1,coco_59920,real/toilet_59920.png,toilet
+fake/glide_inpainting_val2017_60449_up.png,fake/glide_inpainting_val2017_60449_up.png,mask/laptop_60449_mask.png,1,coco_60449,real/laptop_60449.png,laptop
+fake/glide_inpainting_val2017_61471_up.png,fake/glide_inpainting_val2017_61471_up.png,mask/toilet_61471_mask.png,1,coco_61471,real/toilet_61471.png,toilet
+fake/glide_inpainting_val2017_63552_up.png,fake/glide_inpainting_val2017_63552_up.png,mask/cat_63552_mask.png,1,coco_63552,real/cat_63552.png,cat
+fake/glide_inpainting_val2017_64495_up.png,fake/glide_inpainting_val2017_64495_up.png,mask/parking meter_64495_mask.png,1,coco_64495,real/parking meter_64495.png,parking meter
+fake/glide_inpainting_val2017_66135_up.png,fake/glide_inpainting_val2017_66135_up.png,mask/train_66135_mask.png,1,coco_66135,real/train_66135.png,train
+fake/glide_inpainting_val2017_66635_up.png,fake/glide_inpainting_val2017_66635_up.png,mask/tv_66635_mask.png,1,coco_66635,real/tv_66635.png,tv
+fake/glide_inpainting_val2017_66841_up.png,fake/glide_inpainting_val2017_66841_up.png,mask/toaster_66841_mask.png,1,coco_66841,real/toaster_66841.png,toaster
+fake/glide_inpainting_val2017_68765_up.png,fake/glide_inpainting_val2017_68765_up.png,mask/mouse_68765_mask.png,1,coco_68765,real/mouse_68765.png,mouse
+fake/glide_inpainting_val2017_69795_up.png,fake/glide_inpainting_val2017_69795_up.png,mask/vase_69795_mask.png,1,coco_69795,real/vase_69795.png,vase
+fake/glide_inpainting_val2017_70774_up.png,fake/glide_inpainting_val2017_70774_up.png,mask/motorcycle_70774_mask.png,1,coco_70774,real/motorcycle_70774.png,motorcycle
+fake/glide_inpainting_val2017_72813_up.png,fake/glide_inpainting_val2017_72813_up.png,mask/tv_72813_mask.png,1,coco_72813,real/tv_72813.png,tv
+fake/glide_inpainting_val2017_73326_up.png,fake/glide_inpainting_val2017_73326_up.png,mask/refrigerator_73326_mask.png,1,coco_73326,real/refrigerator_73326.png,refrigerator
+fake/glide_inpainting_val2017_75393_up.png,fake/glide_inpainting_val2017_75393_up.png,mask/fork_75393_mask.png,1,coco_75393,real/fork_75393.png,fork
+fake/glide_inpainting_val2017_76417_up.png,fake/glide_inpainting_val2017_76417_up.png,mask/truck_76417_mask.png,1,coco_76417,real/truck_76417.png,truck
+fake/glide_inpainting_val2017_77396_up.png,fake/glide_inpainting_val2017_77396_up.png,mask/tv_77396_mask.png,1,coco_77396,real/tv_77396.png,tv
+fake/glide_inpainting_val2017_78959_up.png,fake/glide_inpainting_val2017_78959_up.png,mask/banana_78959_mask.png,1,coco_78959,real/banana_78959.png,banana
+fake/glide_inpainting_val2017_79034_up.png,fake/glide_inpainting_val2017_79034_up.png,mask/fire hydrant_79034_mask.png,1,coco_79034,real/fire hydrant_79034.png,fire hydrant
+fake/glide_inpainting_val2017_79408_up.png,fake/glide_inpainting_val2017_79408_up.png,mask/stop sign_79408_mask.png,1,coco_79408,real/stop sign_79408.png,stop sign
+fake/glide_inpainting_val2017_80413_up.png,fake/glide_inpainting_val2017_80413_up.png,mask/teddy bear_80413_mask.png,1,coco_80413,real/teddy bear_80413.png,teddy bear
+fake/glide_inpainting_val2017_80949_up.png,fake/glide_inpainting_val2017_80949_up.png,mask/laptop_80949_mask.png,1,coco_80949,real/laptop_80949.png,laptop
+fake/glide_inpainting_val2017_81061_up.png,fake/glide_inpainting_val2017_81061_up.png,mask/suitcase_81061_mask.png,1,coco_81061,real/suitcase_81061.png,suitcase
+fake/glide_inpainting_val2017_8277_up.png,fake/glide_inpainting_val2017_8277_up.png,mask/fork_8277_mask.png,1,coco_8277,real/fork_8277.png,fork
+fake/glide_inpainting_val2017_83113_up.png,fake/glide_inpainting_val2017_83113_up.png,mask/elephant_83113_mask.png,1,coco_83113,real/elephant_83113.png,elephant
+fake/glide_inpainting_val2017_84650_up.png,fake/glide_inpainting_val2017_84650_up.png,mask/suitcase_84650_mask.png,1,coco_84650,real/suitcase_84650.png,suitcase
+fake/glide_inpainting_val2017_85195_up.png,fake/glide_inpainting_val2017_85195_up.png,mask/cake_85195_mask.png,1,coco_85195,real/cake_85195.png,cake
+fake/glide_inpainting_val2017_85576_up.png,fake/glide_inpainting_val2017_85576_up.png,mask/toilet_85576_mask.png,1,coco_85576,real/toilet_85576.png,toilet
+fake/glide_inpainting_val2017_85665_up.png,fake/glide_inpainting_val2017_85665_up.png,mask/kite_85665_mask.png,1,coco_85665,real/kite_85665.png,kite
+fake/glide_inpainting_val2017_85911_up.png,fake/glide_inpainting_val2017_85911_up.png,mask/kite_85911_mask.png,1,coco_85911,real/kite_85911.png,kite
+fake/glide_inpainting_val2017_88218_up.png,fake/glide_inpainting_val2017_88218_up.png,mask/traffic light_88218_mask.png,1,coco_88218,real/traffic light_88218.png,traffic light
+fake/glide_inpainting_val2017_88265_up.png,fake/glide_inpainting_val2017_88265_up.png,mask/horse_88265_mask.png,1,coco_88265,real/horse_88265.png,horse
+fake/glide_inpainting_val2017_91654_up.png,fake/glide_inpainting_val2017_91654_up.png,mask/spoon_91654_mask.png,1,coco_91654,real/spoon_91654.png,spoon
+fake/glide_inpainting_val2017_91779_up.png,fake/glide_inpainting_val2017_91779_up.png,mask/sandwich_91779_mask.png,1,coco_91779,real/sandwich_91779.png,sandwich
+fake/glide_inpainting_val2017_92177_up.png,fake/glide_inpainting_val2017_92177_up.png,mask/surfboard_92177_mask.png,1,coco_92177,real/surfboard_92177.png,surfboard
+fake/glide_inpainting_val2017_95786_up.png,fake/glide_inpainting_val2017_95786_up.png,mask/vase_95786_mask.png,1,coco_95786,real/vase_95786.png,vase
+fake/glide_inpainting_val2017_95843_up.png,fake/glide_inpainting_val2017_95843_up.png,mask/bus_95843_mask.png,1,coco_95843,real/bus_95843.png,bus
+fake/glide_inpainting_val2017_95899_up.png,fake/glide_inpainting_val2017_95899_up.png,mask/stop sign_95899_mask.png,1,coco_95899,real/stop sign_95899.png,stop sign
+fake/glide_inpainting_val2017_96960_up.png,fake/glide_inpainting_val2017_96960_up.png,mask/bear_96960_mask.png,1,coco_96960,real/bear_96960.png,bear
+fake/glide_inpainting_val2017_98839_up.png,fake/glide_inpainting_val2017_98839_up.png,mask/tv_98839_mask.png,1,coco_98839,real/tv_98839.png,tv
+fake/glide_inpainting_val2017_99428_up.png,fake/glide_inpainting_val2017_99428_up.png,mask/remote_99428_mask.png,1,coco_99428,real/remote_99428.png,remote
+real/airplane_139871.png,real/airplane_139871.png,,0,coco_139871,real/airplane_139871.png,airplane
+real/airplane_208901.png,real/airplane_208901.png,,0,coco_208901,real/airplane_208901.png,airplane
+real/airplane_323709.png,real/airplane_323709.png,,0,coco_323709,real/airplane_323709.png,airplane
+real/airplane_383621.png,real/airplane_383621.png,,0,coco_383621,real/airplane_383621.png,airplane
+real/airplane_44652.png,real/airplane_44652.png,,0,coco_44652,real/airplane_44652.png,airplane
+real/airplane_452122.png,real/airplane_452122.png,,0,coco_452122,real/airplane_452122.png,airplane
+real/airplane_525322.png,real/airplane_525322.png,,0,coco_525322,real/airplane_525322.png,airplane
+real/airplane_545407.png,real/airplane_545407.png,,0,coco_545407,real/airplane_545407.png,airplane
+real/airplane_553094.png,real/airplane_553094.png,,0,coco_553094,real/airplane_553094.png,airplane
+real/airplane_567432.png,real/airplane_567432.png,,0,coco_567432,real/airplane_567432.png,airplane
+real/apple_424721.png,real/apple_424721.png,,0,coco_424721,real/apple_424721.png,apple
+real/apple_562059.png,real/apple_562059.png,,0,coco_562059,real/apple_562059.png,apple
+real/backpack_32610.png,real/backpack_32610.png,,0,coco_32610,real/backpack_32610.png,backpack
+real/banana_161820.png,real/banana_161820.png,,0,coco_161820,real/banana_161820.png,banana
+real/banana_28809.png,real/banana_28809.png,,0,coco_28809,real/banana_28809.png,banana
+real/banana_312406.png,real/banana_312406.png,,0,coco_312406,real/banana_312406.png,banana
+real/banana_346707.png,real/banana_346707.png,,0,coco_346707,real/banana_346707.png,banana
+real/banana_348708.png,real/banana_348708.png,,0,coco_348708,real/banana_348708.png,banana
+real/banana_407574.png,real/banana_407574.png,,0,coco_407574,real/banana_407574.png,banana
+real/banana_548506.png,real/banana_548506.png,,0,coco_548506,real/banana_548506.png,banana
+real/banana_575500.png,real/banana_575500.png,,0,coco_575500,real/banana_575500.png,banana
+real/banana_581781.png,real/banana_581781.png,,0,coco_581781,real/banana_581781.png,banana
+real/banana_78959.png,real/banana_78959.png,,0,coco_78959,real/banana_78959.png,banana
+real/baseball bat_292330.png,real/baseball bat_292330.png,,0,coco_292330,real/baseball bat_292330.png,baseball bat
+real/baseball bat_57232.png,real/baseball bat_57232.png,,0,coco_57232,real/baseball bat_57232.png,baseball bat
+real/baseball glove_27932.png,real/baseball glove_27932.png,,0,coco_27932,real/baseball glove_27932.png,baseball glove
+real/bear_132622.png,real/bear_132622.png,,0,coco_132622,real/bear_132622.png,bear
+real/bear_194216.png,real/bear_194216.png,,0,coco_194216,real/bear_194216.png,bear
+real/bear_20247.png,real/bear_20247.png,,0,coco_20247,real/bear_20247.png,bear
+real/bear_203546.png,real/bear_203546.png,,0,coco_203546,real/bear_203546.png,bear
+real/bear_285.png,real/bear_285.png,,0,coco_285,real/bear_285.png,bear
+real/bear_308753.png,real/bear_308753.png,,0,coco_308753,real/bear_308753.png,bear
+real/bear_318080.png,real/bear_318080.png,,0,coco_318080,real/bear_318080.png,bear
+real/bear_414261.png,real/bear_414261.png,,0,coco_414261,real/bear_414261.png,bear
+real/bear_96960.png,real/bear_96960.png,,0,coco_96960,real/bear_96960.png,bear
+real/bed_366199.png,real/bed_366199.png,,0,coco_366199,real/bed_366199.png,bed
+real/bed_384651.png,real/bed_384651.png,,0,coco_384651,real/bed_384651.png,bed
+real/bed_39956.png,real/bed_39956.png,,0,coco_39956,real/bed_39956.png,bed
+real/bed_435299.png,real/bed_435299.png,,0,coco_435299,real/bed_435299.png,bed
+real/bench_577182.png,real/bench_577182.png,,0,coco_577182,real/bench_577182.png,bench
+real/bicycle_101762.png,real/bicycle_101762.png,,0,coco_101762,real/bicycle_101762.png,bicycle
+real/bicycle_196843.png,real/bicycle_196843.png,,0,coco_196843,real/bicycle_196843.png,bicycle
+real/bicycle_224051.png,real/bicycle_224051.png,,0,coco_224051,real/bicycle_224051.png,bicycle
+real/bicycle_242287.png,real/bicycle_242287.png,,0,coco_242287,real/bicycle_242287.png,bicycle
+real/bicycle_36844.png,real/bicycle_36844.png,,0,coco_36844,real/bicycle_36844.png,bicycle
+real/bicycle_426166.png,real/bicycle_426166.png,,0,coco_426166,real/bicycle_426166.png,bicycle
+real/bird_147498.png,real/bird_147498.png,,0,coco_147498,real/bird_147498.png,bird
+real/bird_186938.png,real/bird_186938.png,,0,coco_186938,real/bird_186938.png,bird
+real/bird_229997.png,real/bird_229997.png,,0,coco_229997,real/bird_229997.png,bird
+real/bird_402519.png,real/bird_402519.png,,0,coco_402519,real/bird_402519.png,bird
+real/bird_404568.png,real/bird_404568.png,,0,coco_404568,real/bird_404568.png,bird
+real/bird_489046.png,real/bird_489046.png,,0,coco_489046,real/bird_489046.png,bird
+real/bird_544811.png,real/bird_544811.png,,0,coco_544811,real/bird_544811.png,bird
+real/bird_572517.png,real/bird_572517.png,,0,coco_572517,real/bird_572517.png,bird
+real/boat_133233.png,real/boat_133233.png,,0,coco_133233,real/boat_133233.png,boat
+real/boat_133645.png,real/boat_133645.png,,0,coco_133645,real/boat_133645.png,boat
+real/boat_156372.png,real/boat_156372.png,,0,coco_156372,real/boat_156372.png,boat
+real/boat_209972.png,real/boat_209972.png,,0,coco_209972,real/boat_209972.png,boat
+real/boat_228436.png,real/boat_228436.png,,0,coco_228436,real/boat_228436.png,boat
+real/boat_267940.png,real/boat_267940.png,,0,coco_267940,real/boat_267940.png,boat
+real/boat_311518.png,real/boat_311518.png,,0,coco_311518,real/boat_311518.png,boat
+real/boat_328286.png,real/boat_328286.png,,0,coco_328286,real/boat_328286.png,boat
+real/boat_451090.png,real/boat_451090.png,,0,coco_451090,real/boat_451090.png,boat
+real/boat_491725.png,real/boat_491725.png,,0,coco_491725,real/boat_491725.png,boat
+real/boat_531495.png,real/boat_531495.png,,0,coco_531495,real/boat_531495.png,boat
+real/boat_543300.png,real/boat_543300.png,,0,coco_543300,real/boat_543300.png,boat
+real/boat_561335.png,real/boat_561335.png,,0,coco_561335,real/boat_561335.png,boat
+real/bottle_375078.png,real/bottle_375078.png,,0,coco_375078,real/bottle_375078.png,bottle
+real/bowl_209142.png,real/bowl_209142.png,,0,coco_209142,real/bowl_209142.png,bowl
+real/bowl_2149.png,real/bowl_2149.png,,0,coco_2149,real/bowl_2149.png,bowl
+real/broccoli_104612.png,real/broccoli_104612.png,,0,coco_104612,real/broccoli_104612.png,broccoli
+real/broccoli_132116.png,real/broccoli_132116.png,,0,coco_132116,real/broccoli_132116.png,broccoli
+real/broccoli_231822.png,real/broccoli_231822.png,,0,coco_231822,real/broccoli_231822.png,broccoli
+real/broccoli_255912.png,real/broccoli_255912.png,,0,coco_255912,real/broccoli_255912.png,broccoli
+real/broccoli_34205.png,real/broccoli_34205.png,,0,coco_34205,real/broccoli_34205.png,broccoli
+real/broccoli_3501.png,real/broccoli_3501.png,,0,coco_3501,real/broccoli_3501.png,broccoli
+real/broccoli_350388.png,real/broccoli_350388.png,,0,coco_350388,real/broccoli_350388.png,broccoli
+real/broccoli_356498.png,real/broccoli_356498.png,,0,coco_356498,real/broccoli_356498.png,broccoli
+real/broccoli_3845.png,real/broccoli_3845.png,,0,coco_3845,real/broccoli_3845.png,broccoli
+real/broccoli_389381.png,real/broccoli_389381.png,,0,coco_389381,real/broccoli_389381.png,broccoli
+real/broccoli_50331.png,real/broccoli_50331.png,,0,coco_50331,real/broccoli_50331.png,broccoli
+real/broccoli_516871.png,real/broccoli_516871.png,,0,coco_516871,real/broccoli_516871.png,broccoli
+real/broccoli_549167.png,real/broccoli_549167.png,,0,coco_549167,real/broccoli_549167.png,broccoli
+real/broccoli_562197.png,real/broccoli_562197.png,,0,coco_562197,real/broccoli_562197.png,broccoli
+real/broccoli_579091.png,real/broccoli_579091.png,,0,coco_579091,real/broccoli_579091.png,broccoli
+real/bus_15440.png,real/bus_15440.png,,0,coco_15440,real/bus_15440.png,bus
+real/bus_15517.png,real/bus_15517.png,,0,coco_15517,real/bus_15517.png,bus
+real/bus_201934.png,real/bus_201934.png,,0,coco_201934,real/bus_201934.png,bus
+real/bus_311909.png,real/bus_311909.png,,0,coco_311909,real/bus_311909.png,bus
+real/bus_405205.png,real/bus_405205.png,,0,coco_405205,real/bus_405205.png,bus
+real/bus_423519.png,real/bus_423519.png,,0,coco_423519,real/bus_423519.png,bus
+real/bus_452321.png,real/bus_452321.png,,0,coco_452321,real/bus_452321.png,bus
+real/bus_95843.png,real/bus_95843.png,,0,coco_95843,real/bus_95843.png,bus
+real/cake_13597.png,real/cake_13597.png,,0,coco_13597,real/cake_13597.png,cake
+real/cake_216636.png,real/cake_216636.png,,0,coco_216636,real/cake_216636.png,cake
+real/cake_344795.png,real/cake_344795.png,,0,coco_344795,real/cake_344795.png,cake
+real/cake_470121.png,real/cake_470121.png,,0,coco_470121,real/cake_470121.png,cake
+real/cake_485130.png,real/cake_485130.png,,0,coco_485130,real/cake_485130.png,cake
+real/cake_493334.png,real/cake_493334.png,,0,coco_493334,real/cake_493334.png,cake
+real/cake_85195.png,real/cake_85195.png,,0,coco_85195,real/cake_85195.png,cake
+real/car_10363.png,real/car_10363.png,,0,coco_10363,real/car_10363.png,car
+real/car_141597.png,real/car_141597.png,,0,coco_141597,real/car_141597.png,car
+real/car_172330.png,real/car_172330.png,,0,coco_172330,real/car_172330.png,car
+real/car_225532.png,real/car_225532.png,,0,coco_225532,real/car_225532.png,car
+real/carrot_157390.png,real/carrot_157390.png,,0,coco_157390,real/carrot_157390.png,carrot
+real/carrot_530052.png,real/carrot_530052.png,,0,coco_530052,real/carrot_530052.png,carrot
+real/cat_402473.png,real/cat_402473.png,,0,coco_402473,real/cat_402473.png,cat
+real/cat_411665.png,real/cat_411665.png,,0,coco_411665,real/cat_411665.png,cat
+real/cat_416330.png,real/cat_416330.png,,0,coco_416330,real/cat_416330.png,cat
+real/cat_545826.png,real/cat_545826.png,,0,coco_545826,real/cat_545826.png,cat
+real/cat_63552.png,real/cat_63552.png,,0,coco_63552,real/cat_63552.png,cat
+real/cell phone_180798.png,real/cell phone_180798.png,,0,coco_180798,real/cell phone_180798.png,cell phone
+real/cell phone_228981.png,real/cell phone_228981.png,,0,coco_228981,real/cell phone_228981.png,cell phone
+real/cell phone_288391.png,real/cell phone_288391.png,,0,coco_288391,real/cell phone_288391.png,cell phone
+real/cell phone_446207.png,real/cell phone_446207.png,,0,coco_446207,real/cell phone_446207.png,cell phone
+real/cell phone_561366.png,real/cell phone_561366.png,,0,coco_561366,real/cell phone_561366.png,cell phone
+real/chair_174231.png,real/chair_174231.png,,0,coco_174231,real/chair_174231.png,chair
+real/chair_213224.png,real/chair_213224.png,,0,coco_213224,real/chair_213224.png,chair
+real/chair_274687.png,real/chair_274687.png,,0,coco_274687,real/chair_274687.png,chair
+real/chair_428280.png,real/chair_428280.png,,0,coco_428280,real/chair_428280.png,chair
+real/chair_540928.png,real/chair_540928.png,,0,coco_540928,real/chair_540928.png,chair
+real/clock_111179.png,real/clock_111179.png,,0,coco_111179,real/clock_111179.png,clock
+real/clock_140929.png,real/clock_140929.png,,0,coco_140929,real/clock_140929.png,clock
+real/clock_164363.png,real/clock_164363.png,,0,coco_164363,real/clock_164363.png,clock
+real/clock_267351.png,real/clock_267351.png,,0,coco_267351,real/clock_267351.png,clock
+real/clock_344614.png,real/clock_344614.png,,0,coco_344614,real/clock_344614.png,clock
+real/clock_392228.png,real/clock_392228.png,,0,coco_392228,real/clock_392228.png,clock
+real/clock_418961.png,real/clock_418961.png,,0,coco_418961,real/clock_418961.png,clock
+real/couch_47769.png,real/couch_47769.png,,0,coco_47769,real/couch_47769.png,couch
+real/couch_570456.png,real/couch_570456.png,,0,coco_570456,real/couch_570456.png,couch
+real/cow_133778.png,real/cow_133778.png,,0,coco_133778,real/cow_133778.png,cow
+real/cow_14888.png,real/cow_14888.png,,0,coco_14888,real/cow_14888.png,cow
+real/cow_222863.png,real/cow_222863.png,,0,coco_222863,real/cow_222863.png,cow
+real/cow_233567.png,real/cow_233567.png,,0,coco_233567,real/cow_233567.png,cow
+real/cow_244411.png,real/cow_244411.png,,0,coco_244411,real/cow_244411.png,cow
+real/cow_267434.png,real/cow_267434.png,,0,coco_267434,real/cow_267434.png,cow
+real/cow_314034.png,real/cow_314034.png,,0,coco_314034,real/cow_314034.png,cow
+real/cow_347664.png,real/cow_347664.png,,0,coco_347664,real/cow_347664.png,cow
+real/cow_402992.png,real/cow_402992.png,,0,coco_402992,real/cow_402992.png,cow
+real/cow_416837.png,real/cow_416837.png,,0,coco_416837,real/cow_416837.png,cow
+real/cow_512648.png,real/cow_512648.png,,0,coco_512648,real/cow_512648.png,cow
+real/cow_518213.png,real/cow_518213.png,,0,coco_518213,real/cow_518213.png,cow
+real/dining table_100582.png,real/dining table_100582.png,,0,coco_100582,real/dining table_100582.png,dining table
+real/dining table_114871.png,real/dining table_114871.png,,0,coco_114871,real/dining table_114871.png,dining table
+real/dining table_182417.png,real/dining table_182417.png,,0,coco_182417,real/dining table_182417.png,dining table
+real/dining table_340175.png,real/dining table_340175.png,,0,coco_340175,real/dining table_340175.png,dining table
+real/dog_261161.png,real/dog_261161.png,,0,coco_261161,real/dog_261161.png,dog
+real/dog_355905.png,real/dog_355905.png,,0,coco_355905,real/dog_355905.png,dog
+real/dog_361571.png,real/dog_361571.png,,0,coco_361571,real/dog_361571.png,dog
+real/dog_392818.png,real/dog_392818.png,,0,coco_392818,real/dog_392818.png,dog
+real/dog_486479.png,real/dog_486479.png,,0,coco_486479,real/dog_486479.png,dog
+real/dog_532575.png,real/dog_532575.png,,0,coco_532575,real/dog_532575.png,dog
+real/dog_546829.png,real/dog_546829.png,,0,coco_546829,real/dog_546829.png,dog
+real/donut_109798.png,real/donut_109798.png,,0,coco_109798,real/donut_109798.png,donut
+real/donut_148957.png,real/donut_148957.png,,0,coco_148957,real/donut_148957.png,donut
+real/donut_192904.png,real/donut_192904.png,,0,coco_192904,real/donut_192904.png,donut
+real/donut_238866.png,real/donut_238866.png,,0,coco_238866,real/donut_238866.png,donut
+real/donut_25986.png,real/donut_25986.png,,0,coco_25986,real/donut_25986.png,donut
+real/donut_310200.png,real/donut_310200.png,,0,coco_310200,real/donut_310200.png,donut
+real/donut_322211.png,real/donut_322211.png,,0,coco_322211,real/donut_322211.png,donut
+real/donut_328117.png,real/donut_328117.png,,0,coco_328117,real/donut_328117.png,donut
+real/donut_349152.png,real/donut_349152.png,,0,coco_349152,real/donut_349152.png,donut
+real/donut_377814.png,real/donut_377814.png,,0,coco_377814,real/donut_377814.png,donut
+real/donut_405432.png,real/donut_405432.png,,0,coco_405432,real/donut_405432.png,donut
+real/donut_451150.png,real/donut_451150.png,,0,coco_451150,real/donut_451150.png,donut
+real/elephant_110638.png,real/elephant_110638.png,,0,coco_110638,real/elephant_110638.png,elephant
+real/elephant_166563.png,real/elephant_166563.png,,0,coco_166563,real/elephant_166563.png,elephant
+real/elephant_167128.png,real/elephant_167128.png,,0,coco_167128,real/elephant_167128.png,elephant
+real/elephant_245915.png,real/elephant_245915.png,,0,coco_245915,real/elephant_245915.png,elephant
+real/elephant_259625.png,real/elephant_259625.png,,0,coco_259625,real/elephant_259625.png,elephant
+real/elephant_263860.png,real/elephant_263860.png,,0,coco_263860,real/elephant_263860.png,elephant
+real/elephant_268375.png,real/elephant_268375.png,,0,coco_268375,real/elephant_268375.png,elephant
+real/elephant_270402.png,real/elephant_270402.png,,0,coco_270402,real/elephant_270402.png,elephant
+real/elephant_330790.png,real/elephant_330790.png,,0,coco_330790,real/elephant_330790.png,elephant
+real/elephant_433374.png,real/elephant_433374.png,,0,coco_433374,real/elephant_433374.png,elephant
+real/elephant_474170.png,real/elephant_474170.png,,0,coco_474170,real/elephant_474170.png,elephant
+real/elephant_475779.png,real/elephant_475779.png,,0,coco_475779,real/elephant_475779.png,elephant
+real/elephant_493284.png,real/elephant_493284.png,,0,coco_493284,real/elephant_493284.png,elephant
+real/elephant_535156.png,real/elephant_535156.png,,0,coco_535156,real/elephant_535156.png,elephant
+real/elephant_556765.png,real/elephant_556765.png,,0,coco_556765,real/elephant_556765.png,elephant
+real/elephant_57027.png,real/elephant_57027.png,,0,coco_57027,real/elephant_57027.png,elephant
+real/elephant_83113.png,real/elephant_83113.png,,0,coco_83113,real/elephant_83113.png,elephant
+real/fire hydrant_138550.png,real/fire hydrant_138550.png,,0,coco_138550,real/fire hydrant_138550.png,fire hydrant
+real/fire hydrant_171050.png,real/fire hydrant_171050.png,,0,coco_171050,real/fire hydrant_171050.png,fire hydrant
+real/fire hydrant_244019.png,real/fire hydrant_244019.png,,0,coco_244019,real/fire hydrant_244019.png,fire hydrant
+real/fire hydrant_255718.png,real/fire hydrant_255718.png,,0,coco_255718,real/fire hydrant_255718.png,fire hydrant
+real/fire hydrant_26926.png,real/fire hydrant_26926.png,,0,coco_26926,real/fire hydrant_26926.png,fire hydrant
+real/fire hydrant_293071.png,real/fire hydrant_293071.png,,0,coco_293071,real/fire hydrant_293071.png,fire hydrant
+real/fire hydrant_293474.png,real/fire hydrant_293474.png,,0,coco_293474,real/fire hydrant_293474.png,fire hydrant
+real/fire hydrant_338191.png,real/fire hydrant_338191.png,,0,coco_338191,real/fire hydrant_338191.png,fire hydrant
+real/fire hydrant_377575.png,real/fire hydrant_377575.png,,0,coco_377575,real/fire hydrant_377575.png,fire hydrant
+real/fire hydrant_384616.png,real/fire hydrant_384616.png,,0,coco_384616,real/fire hydrant_384616.png,fire hydrant
+real/fire hydrant_390301.png,real/fire hydrant_390301.png,,0,coco_390301,real/fire hydrant_390301.png,fire hydrant
+real/fire hydrant_499768.png,real/fire hydrant_499768.png,,0,coco_499768,real/fire hydrant_499768.png,fire hydrant
+real/fire hydrant_580757.png,real/fire hydrant_580757.png,,0,coco_580757,real/fire hydrant_580757.png,fire hydrant
+real/fire hydrant_79034.png,real/fire hydrant_79034.png,,0,coco_79034,real/fire hydrant_79034.png,fire hydrant
+real/fork_105014.png,real/fork_105014.png,,0,coco_105014,real/fork_105014.png,fork
+real/fork_210030.png,real/fork_210030.png,,0,coco_210030,real/fork_210030.png,fork
+real/fork_485972.png,real/fork_485972.png,,0,coco_485972,real/fork_485972.png,fork
+real/fork_559707.png,real/fork_559707.png,,0,coco_559707,real/fork_559707.png,fork
+real/fork_75393.png,real/fork_75393.png,,0,coco_75393,real/fork_75393.png,fork
+real/fork_8277.png,real/fork_8277.png,,0,coco_8277,real/fork_8277.png,fork
+real/frisbee_139883.png,real/frisbee_139883.png,,0,coco_139883,real/frisbee_139883.png,frisbee
+real/frisbee_221693.png,real/frisbee_221693.png,,0,coco_221693,real/frisbee_221693.png,frisbee
+real/giraffe_134689.png,real/giraffe_134689.png,,0,coco_134689,real/giraffe_134689.png,giraffe
+real/giraffe_17031.png,real/giraffe_17031.png,,0,coco_17031,real/giraffe_17031.png,giraffe
+real/giraffe_211069.png,real/giraffe_211069.png,,0,coco_211069,real/giraffe_211069.png,giraffe
+real/giraffe_217614.png,real/giraffe_217614.png,,0,coco_217614,real/giraffe_217614.png,giraffe
+real/giraffe_284296.png,real/giraffe_284296.png,,0,coco_284296,real/giraffe_284296.png,giraffe
+real/giraffe_285788.png,real/giraffe_285788.png,,0,coco_285788,real/giraffe_285788.png,giraffe
+real/giraffe_286849.png,real/giraffe_286849.png,,0,coco_286849,real/giraffe_286849.png,giraffe
+real/giraffe_288882.png,real/giraffe_288882.png,,0,coco_288882,real/giraffe_288882.png,giraffe
+real/giraffe_296969.png,real/giraffe_296969.png,,0,coco_296969,real/giraffe_296969.png,giraffe
+real/giraffe_393282.png,real/giraffe_393282.png,,0,coco_393282,real/giraffe_393282.png,giraffe
+real/giraffe_417876.png,real/giraffe_417876.png,,0,coco_417876,real/giraffe_417876.png,giraffe
+real/giraffe_420472.png,real/giraffe_420472.png,,0,coco_420472,real/giraffe_420472.png,giraffe
+real/giraffe_460379.png,real/giraffe_460379.png,,0,coco_460379,real/giraffe_460379.png,giraffe
+real/giraffe_480842.png,real/giraffe_480842.png,,0,coco_480842,real/giraffe_480842.png,giraffe
+real/giraffe_486046.png,real/giraffe_486046.png,,0,coco_486046,real/giraffe_486046.png,giraffe
+real/handbag_23023.png,real/handbag_23023.png,,0,coco_23023,real/handbag_23023.png,handbag
+real/horse_17178.png,real/horse_17178.png,,0,coco_17178,real/horse_17178.png,horse
+real/horse_226883.png,real/horse_226883.png,,0,coco_226883,real/horse_226883.png,horse
+real/horse_269932.png,real/horse_269932.png,,0,coco_269932,real/horse_269932.png,horse
+real/horse_335450.png,real/horse_335450.png,,0,coco_335450,real/horse_335450.png,horse
+real/horse_380203.png,real/horse_380203.png,,0,coco_380203,real/horse_380203.png,horse
+real/horse_382088.png,real/horse_382088.png,,0,coco_382088,real/horse_382088.png,horse
+real/horse_384513.png,real/horse_384513.png,,0,coco_384513,real/horse_384513.png,horse
+real/horse_49269.png,real/horse_49269.png,,0,coco_49269,real/horse_49269.png,horse
+real/horse_508639.png,real/horse_508639.png,,0,coco_508639,real/horse_508639.png,horse
+real/horse_51309.png,real/horse_51309.png,,0,coco_51309,real/horse_51309.png,horse
+real/horse_529105.png,real/horse_529105.png,,0,coco_529105,real/horse_529105.png,horse
+real/horse_88265.png,real/horse_88265.png,,0,coco_88265,real/horse_88265.png,horse
+real/hot dog_226130.png,real/hot dog_226130.png,,0,coco_226130,real/hot dog_226130.png,hot dog
+real/hot dog_251119.png,real/hot dog_251119.png,,0,coco_251119,real/hot dog_251119.png,hot dog
+real/hot dog_283113.png,real/hot dog_283113.png,,0,coco_283113,real/hot dog_283113.png,hot dog
+real/hot dog_293858.png,real/hot dog_293858.png,,0,coco_293858,real/hot dog_293858.png,hot dog
+real/hot dog_29675.png,real/hot dog_29675.png,,0,coco_29675,real/hot dog_29675.png,hot dog
+real/hot dog_319617.png,real/hot dog_319617.png,,0,coco_319617,real/hot dog_319617.png,hot dog
+real/hot dog_393014.png,real/hot dog_393014.png,,0,coco_393014,real/hot dog_393014.png,hot dog
+real/hot dog_438226.png,real/hot dog_438226.png,,0,coco_438226,real/hot dog_438226.png,hot dog
+real/hot dog_452084.png,real/hot dog_452084.png,,0,coco_452084,real/hot dog_452084.png,hot dog
+real/keyboard_1675.png,real/keyboard_1675.png,,0,coco_1675,real/keyboard_1675.png,keyboard
+real/keyboard_416256.png,real/keyboard_416256.png,,0,coco_416256,real/keyboard_416256.png,keyboard
+real/kite_450439.png,real/kite_450439.png,,0,coco_450439,real/kite_450439.png,kite
+real/kite_85665.png,real/kite_85665.png,,0,coco_85665,real/kite_85665.png,kite
+real/kite_85911.png,real/kite_85911.png,,0,coco_85911,real/kite_85911.png,kite
+real/knife_143998.png,real/knife_143998.png,,0,coco_143998,real/knife_143998.png,knife
+real/knife_153632.png,real/knife_153632.png,,0,coco_153632,real/knife_153632.png,knife
+real/knife_189451.png,real/knife_189451.png,,0,coco_189451,real/knife_189451.png,knife
+real/knife_2592.png,real/knife_2592.png,,0,coco_2592,real/knife_2592.png,knife
+real/knife_277051.png,real/knife_277051.png,,0,coco_277051,real/knife_277051.png,knife
+real/laptop_11813.png,real/laptop_11813.png,,0,coco_11813,real/laptop_11813.png,laptop
+real/laptop_222299.png,real/laptop_222299.png,,0,coco_222299,real/laptop_222299.png,laptop
+real/laptop_343076.png,real/laptop_343076.png,,0,coco_343076,real/laptop_343076.png,laptop
+real/laptop_433192.png,real/laptop_433192.png,,0,coco_433192,real/laptop_433192.png,laptop
+real/laptop_60449.png,real/laptop_60449.png,,0,coco_60449,real/laptop_60449.png,laptop
+real/laptop_80949.png,real/laptop_80949.png,,0,coco_80949,real/laptop_80949.png,laptop
+real/microwave_127182.png,real/microwave_127182.png,,0,coco_127182,real/microwave_127182.png,microwave
+real/microwave_269866.png,real/microwave_269866.png,,0,coco_269866,real/microwave_269866.png,microwave
+real/microwave_313130.png,real/microwave_313130.png,,0,coco_313130,real/microwave_313130.png,microwave
+real/microwave_365766.png,real/microwave_365766.png,,0,coco_365766,real/microwave_365766.png,microwave
+real/microwave_426253.png,real/microwave_426253.png,,0,coco_426253,real/microwave_426253.png,microwave
+real/microwave_571313.png,real/microwave_571313.png,,0,coco_571313,real/microwave_571313.png,microwave
+real/microwave_577584.png,real/microwave_577584.png,,0,coco_577584,real/microwave_577584.png,microwave
+real/motorcycle_153217.png,real/motorcycle_153217.png,,0,coco_153217,real/motorcycle_153217.png,motorcycle
+real/motorcycle_276284.png,real/motorcycle_276284.png,,0,coco_276284,real/motorcycle_276284.png,motorcycle
+real/motorcycle_279887.png,real/motorcycle_279887.png,,0,coco_279887,real/motorcycle_279887.png,motorcycle
+real/motorcycle_408830.png,real/motorcycle_408830.png,,0,coco_408830,real/motorcycle_408830.png,motorcycle
+real/motorcycle_410878.png,real/motorcycle_410878.png,,0,coco_410878,real/motorcycle_410878.png,motorcycle
+real/motorcycle_456394.png,real/motorcycle_456394.png,,0,coco_456394,real/motorcycle_456394.png,motorcycle
+real/motorcycle_48924.png,real/motorcycle_48924.png,,0,coco_48924,real/motorcycle_48924.png,motorcycle
+real/motorcycle_524108.png,real/motorcycle_524108.png,,0,coco_524108,real/motorcycle_524108.png,motorcycle
+real/motorcycle_572956.png,real/motorcycle_572956.png,,0,coco_572956,real/motorcycle_572956.png,motorcycle
+real/motorcycle_70774.png,real/motorcycle_70774.png,,0,coco_70774,real/motorcycle_70774.png,motorcycle
+real/mouse_15497.png,real/mouse_15497.png,,0,coco_15497,real/mouse_15497.png,mouse
+real/mouse_248314.png,real/mouse_248314.png,,0,coco_248314,real/mouse_248314.png,mouse
+real/mouse_409630.png,real/mouse_409630.png,,0,coco_409630,real/mouse_409630.png,mouse
+real/mouse_68765.png,real/mouse_68765.png,,0,coco_68765,real/mouse_68765.png,mouse
+real/orange_104669.png,real/orange_104669.png,,0,coco_104669,real/orange_104669.png,orange
+real/orange_128598.png,real/orange_128598.png,,0,coco_128598,real/orange_128598.png,orange
+real/orange_136772.png,real/orange_136772.png,,0,coco_136772,real/orange_136772.png,orange
+real/orange_148707.png,real/orange_148707.png,,0,coco_148707,real/orange_148707.png,orange
+real/orange_189078.png,real/orange_189078.png,,0,coco_189078,real/orange_189078.png,orange
+real/orange_231527.png,real/orange_231527.png,,0,coco_231527,real/orange_231527.png,orange
+real/orange_248980.png,real/orange_248980.png,,0,coco_248980,real/orange_248980.png,orange
+real/orange_318114.png,real/orange_318114.png,,0,coco_318114,real/orange_318114.png,orange
+real/orange_369370.png,real/orange_369370.png,,0,coco_369370,real/orange_369370.png,orange
+real/orange_386210.png,real/orange_386210.png,,0,coco_386210,real/orange_386210.png,orange
+real/orange_406570.png,real/orange_406570.png,,0,coco_406570,real/orange_406570.png,orange
+real/orange_50896.png,real/orange_50896.png,,0,coco_50896,real/orange_50896.png,orange
+real/orange_509131.png,real/orange_509131.png,,0,coco_509131,real/orange_509131.png,orange
+real/orange_567898.png,real/orange_567898.png,,0,coco_567898,real/orange_567898.png,orange
+real/oven_138856.png,real/oven_138856.png,,0,coco_138856,real/oven_138856.png,oven
+real/oven_283717.png,real/oven_283717.png,,0,coco_283717,real/oven_283717.png,oven
+real/oven_393838.png,real/oven_393838.png,,0,coco_393838,real/oven_393838.png,oven
+real/oven_455267.png,real/oven_455267.png,,0,coco_455267,real/oven_455267.png,oven
+real/parking meter_328683.png,real/parking meter_328683.png,,0,coco_328683,real/parking meter_328683.png,parking meter
+real/parking meter_333956.png,real/parking meter_333956.png,,0,coco_333956,real/parking meter_333956.png,parking meter
+real/parking meter_36861.png,real/parking meter_36861.png,,0,coco_36861,real/parking meter_36861.png,parking meter
+real/parking meter_369751.png,real/parking meter_369751.png,,0,coco_369751,real/parking meter_369751.png,parking meter
+real/parking meter_430871.png,real/parking meter_430871.png,,0,coco_430871,real/parking meter_430871.png,parking meter
+real/parking meter_458702.png,real/parking meter_458702.png,,0,coco_458702,real/parking meter_458702.png,parking meter
+real/parking meter_51961.png,real/parking meter_51961.png,,0,coco_51961,real/parking meter_51961.png,parking meter
+real/parking meter_53994.png,real/parking meter_53994.png,,0,coco_53994,real/parking meter_53994.png,parking meter
+real/parking meter_542625.png,real/parking meter_542625.png,,0,coco_542625,real/parking meter_542625.png,parking meter
+real/parking meter_64495.png,real/parking meter_64495.png,,0,coco_64495,real/parking meter_64495.png,parking meter
+real/pizza_194746.png,real/pizza_194746.png,,0,coco_194746,real/pizza_194746.png,pizza
+real/pizza_232489.png,real/pizza_232489.png,,0,coco_232489,real/pizza_232489.png,pizza
+real/pizza_24144.png,real/pizza_24144.png,,0,coco_24144,real/pizza_24144.png,pizza
+real/pizza_337498.png,real/pizza_337498.png,,0,coco_337498,real/pizza_337498.png,pizza
+real/pizza_351331.png,real/pizza_351331.png,,0,coco_351331,real/pizza_351331.png,pizza
+real/pizza_369757.png,real/pizza_369757.png,,0,coco_369757,real/pizza_369757.png,pizza
+real/pizza_402433.png,real/pizza_402433.png,,0,coco_402433,real/pizza_402433.png,pizza
+real/pizza_43581.png,real/pizza_43581.png,,0,coco_43581,real/pizza_43581.png,pizza
+real/pizza_451693.png,real/pizza_451693.png,,0,coco_451693,real/pizza_451693.png,pizza
+real/pizza_476787.png,real/pizza_476787.png,,0,coco_476787,real/pizza_476787.png,pizza
+real/pizza_520871.png,real/pizza_520871.png,,0,coco_520871,real/pizza_520871.png,pizza
+real/pizza_532129.png,real/pizza_532129.png,,0,coco_532129,real/pizza_532129.png,pizza
+real/potted plant_279145.png,real/potted plant_279145.png,,0,coco_279145,real/potted plant_279145.png,potted plant
+real/potted plant_372260.png,real/potted plant_372260.png,,0,coco_372260,real/potted plant_372260.png,potted plant
+real/potted plant_415238.png,real/potted plant_415238.png,,0,coco_415238,real/potted plant_415238.png,potted plant
+real/refrigerator_156278.png,real/refrigerator_156278.png,,0,coco_156278,real/refrigerator_156278.png,refrigerator
+real/refrigerator_168593.png,real/refrigerator_168593.png,,0,coco_168593,real/refrigerator_168593.png,refrigerator
+real/refrigerator_194724.png,real/refrigerator_194724.png,,0,coco_194724,real/refrigerator_194724.png,refrigerator
+real/refrigerator_243344.png,real/refrigerator_243344.png,,0,coco_243344,real/refrigerator_243344.png,refrigerator
+real/refrigerator_435880.png,real/refrigerator_435880.png,,0,coco_435880,real/refrigerator_435880.png,refrigerator
+real/refrigerator_446522.png,real/refrigerator_446522.png,,0,coco_446522,real/refrigerator_446522.png,refrigerator
+real/refrigerator_488075.png,real/refrigerator_488075.png,,0,coco_488075,real/refrigerator_488075.png,refrigerator
+real/refrigerator_537672.png,real/refrigerator_537672.png,,0,coco_537672,real/refrigerator_537672.png,refrigerator
+real/refrigerator_73326.png,real/refrigerator_73326.png,,0,coco_73326,real/refrigerator_73326.png,refrigerator
+real/remote_430286.png,real/remote_430286.png,,0,coco_430286,real/remote_430286.png,remote
+real/remote_99428.png,real/remote_99428.png,,0,coco_99428,real/remote_99428.png,remote
+real/sandwich_120853.png,real/sandwich_120853.png,,0,coco_120853,real/sandwich_120853.png,sandwich
+real/sandwich_170595.png,real/sandwich_170595.png,,0,coco_170595,real/sandwich_170595.png,sandwich
+real/sandwich_173091.png,real/sandwich_173091.png,,0,coco_173091,real/sandwich_173091.png,sandwich
+real/sandwich_183965.png,real/sandwich_183965.png,,0,coco_183965,real/sandwich_183965.png,sandwich
+real/sandwich_191580.png,real/sandwich_191580.png,,0,coco_191580,real/sandwich_191580.png,sandwich
+real/sandwich_287959.png,real/sandwich_287959.png,,0,coco_287959,real/sandwich_287959.png,sandwich
+real/sandwich_293044.png,real/sandwich_293044.png,,0,coco_293044,real/sandwich_293044.png,sandwich
+real/sandwich_322574.png,real/sandwich_322574.png,,0,coco_322574,real/sandwich_322574.png,sandwich
+real/sandwich_369771.png,real/sandwich_369771.png,,0,coco_369771,real/sandwich_369771.png,sandwich
+real/sandwich_434297.png,real/sandwich_434297.png,,0,coco_434297,real/sandwich_434297.png,sandwich
+real/sandwich_91779.png,real/sandwich_91779.png,,0,coco_91779,real/sandwich_91779.png,sandwich
+real/scissors_324715.png,real/scissors_324715.png,,0,coco_324715,real/scissors_324715.png,scissors
+real/scissors_348012.png,real/scissors_348012.png,,0,coco_348012,real/scissors_348012.png,scissors
+real/scissors_357501.png,real/scissors_357501.png,,0,coco_357501,real/scissors_357501.png,scissors
+real/scissors_546826.png,real/scissors_546826.png,,0,coco_546826,real/scissors_546826.png,scissors
+real/scissors_550322.png,real/scissors_550322.png,,0,coco_550322,real/scissors_550322.png,scissors
+real/sheep_154947.png,real/sheep_154947.png,,0,coco_154947,real/sheep_154947.png,sheep
+real/sheep_198960.png,real/sheep_198960.png,,0,coco_198960,real/sheep_198960.png,sheep
+real/sheep_225184.png,real/sheep_225184.png,,0,coco_225184,real/sheep_225184.png,sheep
+real/sheep_22589.png,real/sheep_22589.png,,0,coco_22589,real/sheep_22589.png,sheep
+real/sheep_269196.png,real/sheep_269196.png,,0,coco_269196,real/sheep_269196.png,sheep
+real/sheep_290592.png,real/sheep_290592.png,,0,coco_290592,real/sheep_290592.png,sheep
+real/sheep_295231.png,real/sheep_295231.png,,0,coco_295231,real/sheep_295231.png,sheep
+real/sheep_340272.png,real/sheep_340272.png,,0,coco_340272,real/sheep_340272.png,sheep
+real/sheep_364322.png,real/sheep_364322.png,,0,coco_364322,real/sheep_364322.png,sheep
+real/sheep_44699.png,real/sheep_44699.png,,0,coco_44699,real/sheep_44699.png,sheep
+real/sheep_528524.png,real/sheep_528524.png,,0,coco_528524,real/sheep_528524.png,sheep
+real/sheep_552612.png,real/sheep_552612.png,,0,coco_552612,real/sheep_552612.png,sheep
+real/sink_223789.png,real/sink_223789.png,,0,coco_223789,real/sink_223789.png,sink
+real/sink_30213.png,real/sink_30213.png,,0,coco_30213,real/sink_30213.png,sink
+real/sink_47121.png,real/sink_47121.png,,0,coco_47121,real/sink_47121.png,sink
+real/skateboard_300842.png,real/skateboard_300842.png,,0,coco_300842,real/skateboard_300842.png,skateboard
+real/skateboard_544052.png,real/skateboard_544052.png,,0,coco_544052,real/skateboard_544052.png,skateboard
+real/snowboard_304817.png,real/snowboard_304817.png,,0,coco_304817,real/snowboard_304817.png,snowboard
+real/spoon_116362.png,real/spoon_116362.png,,0,coco_116362,real/spoon_116362.png,spoon
+real/spoon_129113.png,real/spoon_129113.png,,0,coco_129113,real/spoon_129113.png,spoon
+real/spoon_335427.png,real/spoon_335427.png,,0,coco_335427,real/spoon_335427.png,spoon
+real/spoon_465430.png,real/spoon_465430.png,,0,coco_465430,real/spoon_465430.png,spoon
+real/spoon_91654.png,real/spoon_91654.png,,0,coco_91654,real/spoon_91654.png,spoon
+real/stop sign_104198.png,real/stop sign_104198.png,,0,coco_104198,real/stop sign_104198.png,stop sign
+real/stop sign_126592.png,real/stop sign_126592.png,,0,coco_126592,real/stop sign_126592.png,stop sign
+real/stop sign_172856.png,real/stop sign_172856.png,,0,coco_172856,real/stop sign_172856.png,stop sign
+real/stop sign_196754.png,real/stop sign_196754.png,,0,coco_196754,real/stop sign_196754.png,stop sign
+real/stop sign_214200.png,real/stop sign_214200.png,,0,coco_214200,real/stop sign_214200.png,stop sign
+real/stop sign_222094.png,real/stop sign_222094.png,,0,coco_222094,real/stop sign_222094.png,stop sign
+real/stop sign_252332.png,real/stop sign_252332.png,,0,coco_252332,real/stop sign_252332.png,stop sign
+real/stop sign_283038.png,real/stop sign_283038.png,,0,coco_283038,real/stop sign_283038.png,stop sign
+real/stop sign_579893.png,real/stop sign_579893.png,,0,coco_579893,real/stop sign_579893.png,stop sign
+real/stop sign_79408.png,real/stop sign_79408.png,,0,coco_79408,real/stop sign_79408.png,stop sign
+real/stop sign_95899.png,real/stop sign_95899.png,,0,coco_95899,real/stop sign_95899.png,stop sign
+real/suitcase_125952.png,real/suitcase_125952.png,,0,coco_125952,real/suitcase_125952.png,suitcase
+real/suitcase_180296.png,real/suitcase_180296.png,,0,coco_180296,real/suitcase_180296.png,suitcase
+real/suitcase_294855.png,real/suitcase_294855.png,,0,coco_294855,real/suitcase_294855.png,suitcase
+real/suitcase_304545.png,real/suitcase_304545.png,,0,coco_304545,real/suitcase_304545.png,suitcase
+real/suitcase_359855.png,real/suitcase_359855.png,,0,coco_359855,real/suitcase_359855.png,suitcase
+real/suitcase_370478.png,real/suitcase_370478.png,,0,coco_370478,real/suitcase_370478.png,suitcase
+real/suitcase_389315.png,real/suitcase_389315.png,,0,coco_389315,real/suitcase_389315.png,suitcase
+real/suitcase_432468.png,real/suitcase_432468.png,,0,coco_432468,real/suitcase_432468.png,suitcase
+real/suitcase_443303.png,real/suitcase_443303.png,,0,coco_443303,real/suitcase_443303.png,suitcase
+real/suitcase_453860.png,real/suitcase_453860.png,,0,coco_453860,real/suitcase_453860.png,suitcase
+real/suitcase_475678.png,real/suitcase_475678.png,,0,coco_475678,real/suitcase_475678.png,suitcase
+real/suitcase_485424.png,real/suitcase_485424.png,,0,coco_485424,real/suitcase_485424.png,suitcase
+real/suitcase_534664.png,real/suitcase_534664.png,,0,coco_534664,real/suitcase_534664.png,suitcase
+real/suitcase_81061.png,real/suitcase_81061.png,,0,coco_81061,real/suitcase_81061.png,suitcase
+real/suitcase_84650.png,real/suitcase_84650.png,,0,coco_84650,real/suitcase_84650.png,suitcase
+real/surfboard_107554.png,real/surfboard_107554.png,,0,coco_107554,real/surfboard_107554.png,surfboard
+real/surfboard_164115.png,real/surfboard_164115.png,,0,coco_164115,real/surfboard_164115.png,surfboard
+real/surfboard_355677.png,real/surfboard_355677.png,,0,coco_355677,real/surfboard_355677.png,surfboard
+real/surfboard_377882.png,real/surfboard_377882.png,,0,coco_377882,real/surfboard_377882.png,surfboard
+real/surfboard_92177.png,real/surfboard_92177.png,,0,coco_92177,real/surfboard_92177.png,surfboard
+real/teddy bear_125062.png,real/teddy bear_125062.png,,0,coco_125062,real/teddy bear_125062.png,teddy bear
+real/teddy bear_199681.png,real/teddy bear_199681.png,,0,coco_199681,real/teddy bear_199681.png,teddy bear
+real/teddy bear_219283.png,real/teddy bear_219283.png,,0,coco_219283,real/teddy bear_219283.png,teddy bear
+real/teddy bear_220310.png,real/teddy bear_220310.png,,0,coco_220310,real/teddy bear_220310.png,teddy bear
+real/teddy bear_35963.png,real/teddy bear_35963.png,,0,coco_35963,real/teddy bear_35963.png,teddy bear
+real/teddy bear_370900.png,real/teddy bear_370900.png,,0,coco_370900,real/teddy bear_370900.png,teddy bear
+real/teddy bear_409268.png,real/teddy bear_409268.png,,0,coco_409268,real/teddy bear_409268.png,teddy bear
+real/teddy bear_478393.png,real/teddy bear_478393.png,,0,coco_478393,real/teddy bear_478393.png,teddy bear
+real/teddy bear_50844.png,real/teddy bear_50844.png,,0,coco_50844,real/teddy bear_50844.png,teddy bear
+real/teddy bear_534601.png,real/teddy bear_534601.png,,0,coco_534601,real/teddy bear_534601.png,teddy bear
+real/teddy bear_537802.png,real/teddy bear_537802.png,,0,coco_537802,real/teddy bear_537802.png,teddy bear
+real/teddy bear_563758.png,real/teddy bear_563758.png,,0,coco_563758,real/teddy bear_563758.png,teddy bear
+real/teddy bear_80413.png,real/teddy bear_80413.png,,0,coco_80413,real/teddy bear_80413.png,teddy bear
+real/tie_131938.png,real/tie_131938.png,,0,coco_131938,real/tie_131938.png,tie
+real/tie_189436.png,real/tie_189436.png,,0,coco_189436,real/tie_189436.png,tie
+real/tie_471869.png,real/tie_471869.png,,0,coco_471869,real/tie_471869.png,tie
+real/tie_505573.png,real/tie_505573.png,,0,coco_505573,real/tie_505573.png,tie
+real/toaster_232348.png,real/toaster_232348.png,,0,coco_232348,real/toaster_232348.png,toaster
+real/toaster_66841.png,real/toaster_66841.png,,0,coco_66841,real/toaster_66841.png,toaster
+real/toilet_138819.png,real/toilet_138819.png,,0,coco_138819,real/toilet_138819.png,toilet
+real/toilet_147518.png,real/toilet_147518.png,,0,coco_147518,real/toilet_147518.png,toilet
+real/toilet_245764.png,real/toilet_245764.png,,0,coco_245764,real/toilet_245764.png,toilet
+real/toilet_272416.png,real/toilet_272416.png,,0,coco_272416,real/toilet_272416.png,toilet
+real/toilet_32285.png,real/toilet_32285.png,,0,coco_32285,real/toilet_32285.png,toilet
+real/toilet_331352.png,real/toilet_331352.png,,0,coco_331352,real/toilet_331352.png,toilet
+real/toilet_348216.png,real/toilet_348216.png,,0,coco_348216,real/toilet_348216.png,toilet
+real/toilet_394328.png,real/toilet_394328.png,,0,coco_394328,real/toilet_394328.png,toilet
+real/toilet_423971.png,real/toilet_423971.png,,0,coco_423971,real/toilet_423971.png,toilet
+real/toilet_431140.png,real/toilet_431140.png,,0,coco_431140,real/toilet_431140.png,toilet
+real/toilet_59920.png,real/toilet_59920.png,,0,coco_59920,real/toilet_59920.png,toilet
+real/toilet_61471.png,real/toilet_61471.png,,0,coco_61471,real/toilet_61471.png,toilet
+real/toilet_85576.png,real/toilet_85576.png,,0,coco_85576,real/toilet_85576.png,toilet
+real/toothbrush_160666.png,real/toothbrush_160666.png,,0,coco_160666,real/toothbrush_160666.png,toothbrush
+real/toothbrush_241319.png,real/toothbrush_241319.png,,0,coco_241319,real/toothbrush_241319.png,toothbrush
+real/toothbrush_365385.png,real/toothbrush_365385.png,,0,coco_365385,real/toothbrush_365385.png,toothbrush
+real/toothbrush_521405.png,real/toothbrush_521405.png,,0,coco_521405,real/toothbrush_521405.png,toothbrush
+real/traffic light_269942.png,real/traffic light_269942.png,,0,coco_269942,real/traffic light_269942.png,traffic light
+real/traffic light_284762.png,real/traffic light_284762.png,,0,coco_284762,real/traffic light_284762.png,traffic light
+real/traffic light_526392.png,real/traffic light_526392.png,,0,coco_526392,real/traffic light_526392.png,traffic light
+real/traffic light_571943.png,real/traffic light_571943.png,,0,coco_571943,real/traffic light_571943.png,traffic light
+real/traffic light_88218.png,real/traffic light_88218.png,,0,coco_88218,real/traffic light_88218.png,traffic light
+real/train_129135.png,real/train_129135.png,,0,coco_129135,real/train_129135.png,train
+real/train_134722.png,real/train_134722.png,,0,coco_134722,real/train_134722.png,train
+real/train_184400.png,real/train_184400.png,,0,coco_184400,real/train_184400.png,train
+real/train_210502.png,real/train_210502.png,,0,coco_210502,real/train_210502.png,train
+real/train_221213.png,real/train_221213.png,,0,coco_221213,real/train_221213.png,train
+real/train_232538.png,real/train_232538.png,,0,coco_232538,real/train_232538.png,train
+real/train_338986.png,real/train_338986.png,,0,coco_338986,real/train_338986.png,train
+real/train_364587.png,real/train_364587.png,,0,coco_364587,real/train_364587.png,train
+real/train_416269.png,real/train_416269.png,,0,coco_416269,real/train_416269.png,train
+real/train_478286.png,real/train_478286.png,,0,coco_478286,real/train_478286.png,train
+real/train_508482.png,real/train_508482.png,,0,coco_508482,real/train_508482.png,train
+real/train_534639.png,real/train_534639.png,,0,coco_534639,real/train_534639.png,train
+real/train_66135.png,real/train_66135.png,,0,coco_66135,real/train_66135.png,train
+real/truck_196759.png,real/truck_196759.png,,0,coco_196759,real/truck_196759.png,truck
+real/truck_272049.png,real/truck_272049.png,,0,coco_272049,real/truck_272049.png,truck
+real/truck_314914.png,real/truck_314914.png,,0,coco_314914,real/truck_314914.png,truck
+real/truck_474164.png,real/truck_474164.png,,0,coco_474164,real/truck_474164.png,truck
+real/truck_498286.png,real/truck_498286.png,,0,coco_498286,real/truck_498286.png,truck
+real/truck_523782.png,real/truck_523782.png,,0,coco_523782,real/truck_523782.png,truck
+real/truck_76417.png,real/truck_76417.png,,0,coco_76417,real/truck_76417.png,truck
+real/tv_131131.png,real/tv_131131.png,,0,coco_131131,real/tv_131131.png,tv
+real/tv_246308.png,real/tv_246308.png,,0,coco_246308,real/tv_246308.png,tv
+real/tv_357941.png,real/tv_357941.png,,0,coco_357941,real/tv_357941.png,tv
+real/tv_366141.png,real/tv_366141.png,,0,coco_366141,real/tv_366141.png,tv
+real/tv_368684.png,real/tv_368684.png,,0,coco_368684,real/tv_368684.png,tv
+real/tv_387098.png,real/tv_387098.png,,0,coco_387098,real/tv_387098.png,tv
+real/tv_453722.png,real/tv_453722.png,,0,coco_453722,real/tv_453722.png,tv
+real/tv_555009.png,real/tv_555009.png,,0,coco_555009,real/tv_555009.png,tv
+real/tv_56344.png,real/tv_56344.png,,0,coco_56344,real/tv_56344.png,tv
+real/tv_66635.png,real/tv_66635.png,,0,coco_66635,real/tv_66635.png,tv
+real/tv_72813.png,real/tv_72813.png,,0,coco_72813,real/tv_72813.png,tv
+real/tv_77396.png,real/tv_77396.png,,0,coco_77396,real/tv_77396.png,tv
+real/tv_98839.png,real/tv_98839.png,,0,coco_98839,real/tv_98839.png,tv
+real/umbrella_121506.png,real/umbrella_121506.png,,0,coco_121506,real/umbrella_121506.png,umbrella
+real/umbrella_146363.png,real/umbrella_146363.png,,0,coco_146363,real/umbrella_146363.png,umbrella
+real/umbrella_203580.png,real/umbrella_203580.png,,0,coco_203580,real/umbrella_203580.png,umbrella
+real/umbrella_222991.png,real/umbrella_222991.png,,0,coco_222991,real/umbrella_222991.png,umbrella
+real/umbrella_231088.png,real/umbrella_231088.png,,0,coco_231088,real/umbrella_231088.png,umbrella
+real/umbrella_233033.png,real/umbrella_233033.png,,0,coco_233033,real/umbrella_233033.png,umbrella
+real/umbrella_341058.png,real/umbrella_341058.png,,0,coco_341058,real/umbrella_341058.png,umbrella
+real/umbrella_416991.png,real/umbrella_416991.png,,0,coco_416991,real/umbrella_416991.png,umbrella
+real/umbrella_458663.png,real/umbrella_458663.png,,0,coco_458663,real/umbrella_458663.png,umbrella
+real/umbrella_526103.png,real/umbrella_526103.png,,0,coco_526103,real/umbrella_526103.png,umbrella
+real/umbrella_528980.png,real/umbrella_528980.png,,0,coco_528980,real/umbrella_528980.png,umbrella
+real/umbrella_540280.png,real/umbrella_540280.png,,0,coco_540280,real/umbrella_540280.png,umbrella
+real/vase_159282.png,real/vase_159282.png,,0,coco_159282,real/vase_159282.png,vase
+real/vase_176232.png,real/vase_176232.png,,0,coco_176232,real/vase_176232.png,vase
+real/vase_51326.png,real/vase_51326.png,,0,coco_51326,real/vase_51326.png,vase
+real/vase_521282.png,real/vase_521282.png,,0,coco_521282,real/vase_521282.png,vase
+real/vase_530457.png,real/vase_530457.png,,0,coco_530457,real/vase_530457.png,vase
+real/vase_69795.png,real/vase_69795.png,,0,coco_69795,real/vase_69795.png,vase
+real/vase_95786.png,real/vase_95786.png,,0,coco_95786,real/vase_95786.png,vase
+real/wine glass_146489.png,real/wine glass_146489.png,,0,coco_146489,real/wine glass_146489.png,wine glass
+real/wine glass_304984.png,real/wine glass_304984.png,,0,coco_304984,real/wine glass_304984.png,wine glass
+real/wine glass_416885.png,real/wine glass_416885.png,,0,coco_416885,real/wine glass_416885.png,wine glass
+real/wine glass_533206.png,real/wine glass_533206.png,,0,coco_533206,real/wine glass_533206.png,wine glass
+real/wine glass_567825.png,real/wine glass_567825.png,,0,coco_567825,real/wine glass_567825.png,wine glass
+real/zebra_110211.png,real/zebra_110211.png,,0,coco_110211,real/zebra_110211.png,zebra
+real/zebra_122969.png,real/zebra_122969.png,,0,coco_122969,real/zebra_122969.png,zebra
+real/zebra_129054.png,real/zebra_129054.png,,0,coco_129054,real/zebra_129054.png,zebra
+real/zebra_185409.png,real/zebra_185409.png,,0,coco_185409,real/zebra_185409.png,zebra
+real/zebra_20059.png,real/zebra_20059.png,,0,coco_20059,real/zebra_20059.png,zebra
+real/zebra_25139.png,real/zebra_25139.png,,0,coco_25139,real/zebra_25139.png,zebra
+real/zebra_290833.png,real/zebra_290833.png,,0,coco_290833,real/zebra_290833.png,zebra
+real/zebra_291861.png,real/zebra_291861.png,,0,coco_291861,real/zebra_291861.png,zebra
+real/zebra_31269.png,real/zebra_31269.png,,0,coco_31269,real/zebra_31269.png,zebra
+real/zebra_317024.png,real/zebra_317024.png,,0,coco_317024,real/zebra_317024.png,zebra
+real/zebra_320632.png,real/zebra_320632.png,,0,coco_320632,real/zebra_320632.png,zebra
+real/zebra_504439.png,real/zebra_504439.png,,0,coco_504439,real/zebra_504439.png,zebra
